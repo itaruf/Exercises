@@ -1,0 +1,251 @@
+main {
+
+  width : 100%;
+  background-color : transparent;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+}
+
+ul {
+ 
+  background-color : transparent;
+  display: block;
+  list-style-type: disc;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 0;
+
+}
+
+h1 { 
+
+  padding: 0.5em;
+  position: top;
+  border-radius: 0.25em;
+  margin : 0;
+  font-size: 2.5em; 
+  font-family: "Montserrat";
+  font-weight: 100;
+  text-align: justify;
+
+}
+
+h2 { 
+
+  padding: 0.5em;
+  position: top;
+  border-radius: 0.25em;
+  margin : 1em;
+  font-size: 2em; 
+  font-family: "Montserrat";
+  font-weight: 100;
+  text-align: justify;
+
+}
+
+a {
+
+  text-decoration: none;
+  color: black;
+
+}
+
+
+
+a:hover {
+
+  text-decoration: none;
+  background-color : transparent ;
+
+}
+
+li {
+
+  list-style-type: none;
+  text-align: justify;
+
+}
+
+section  {
+
+  background-color : transparent;
+
+}
+
+nav { 
+
+  height: 4.5em;
+  background: linear-gradient(to right, rgb(152, 130, 255), rgb(95, 174, 255), rgb(51, 235, 255));
+  border-bottom: 2px solid white;
+  max-width : 100%;
+  min-width: 100%;
+  margin: 0;
+  position: top;
+  font-family: "Montserrat";
+  font-size: 1em;
+  display: flex;
+  justify-content: space-between;
+  box-sizing: border-box;
+  z-index: 100;
+  align-items : center;
+  font-size: medium;
+  
+
+}
+
+nav a {
+
+  display : flex;
+  /*padding: 0*/;
+  margin-left: 1.5em;
+  margin-right: 0.5em;
+  color: #eee;
+  font-size: 0.95em;
+  transition: 0.4s;
+  font-family: "Montserrat";
+  font-weight: 100;
+  text-align: justify;
+
+}
+
+nav a:hover {
+  
+  text-decoration: none;
+
+}
+
+.h1Nav {
+
+  font-size : 1.5em;
+  padding : 0;
+  width: max-content;
+  text-shadow: 0px 1px 2px #000000a1;
+  color : white;
+  margin-right : 1em;
+  
+}
+
+nav ul {
+ 
+  display: flex;
+  list-style: none;
+  justify-content: space-around;
+  align-items: center;
+  height: 100%;
+  margin: 0;
+  background-color: transparent;
+}
+
+.btn-nav { /*Propriétés des boutons CONNEXION / INSCRIPTION / FAQ*/
+
+  padding: 0.5em 1.25em;
+  border-radius: 3.75em;
+  transition: 0.4s;
+  display: inline-block; 
+  margin-bottom: 0px;
+  margin-left: 1.5em;
+  margin-right : 1em;
+  font-weight: lighter;
+  font-size : small;
+  cursor: pointer;
+  color: black;
+  background: #eee;
+  border: 0.5px solid white;
+  box-shadow: 0px 0px 4px 2px linen;
+  text-shadow: 0px 1px 3px #6e6e6ea1;
+}
+
+.btn-nav:hover {
+
+  color: black;
+  background: transparent;
+  
+}
+
+
+
+.footer {
+
+  display: table-footer-group;
+  margin-top: 1.2em;
+
+}
+
+footer { 
+
+  font-family: "Montserrat";
+  list-style: none;
+  width : 100%;
+  font-size : 1em;
+  background: linear-gradient(to right,rgb(51, 235, 255) , rgb(95, 174, 255),rgb(152, 130, 255));
+  color: #eee;
+  display: flex;
+  border-top : 2px solid rgb(63, 63, 63);
+
+
+  
+}
+
+footer a { 
+
+  color: white;
+  justify-content: space-between;
+}
+
+footer a:hover { 
+
+  text-decoration: none;
+
+}
+
+.current {
+ 
+  color: rgb(0, 174, 255);
+  text-shadow: 0px 0px 1px #00d6ff;
+
+}
+
+@media (min-width: 20em) {
+
+  main {
+    width: 100%;
+    top: 35em;
+  }
+  .card {
+    width: 45%;
+  }
+  .card .card-image img {
+    width: 100%;
+  }
+
+}
+
+ @media (max-width:  3.515625em) {
+
+  nav ul {
+
+    display: none;
+    position : fixed;
+    font-size: medium;
+  }
+
+}
+
+@media (max-width: 44.9375) {
+  
+  .card, .card .card-image img {
+    width: 100%;
+
+  }
+}
+
+
+.under:hover {
+
+  text-decoration : underline;
+
+}

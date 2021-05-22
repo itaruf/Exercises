@@ -1,0 +1,527 @@
+@import url("https://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css");
+
+.bannerSettings{ 
+  
+  height: auto;
+  width: 100%;
+  margin-bottom: 0em;
+  padding-top: 1em;
+  padding-bottom: 2em;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 0.875em;
+  letter-spacing: .4px;
+  background-attachment: fixed;
+  background-position: center;
+  background-blend-mode: overlay;
+  background-size: cover;
+  color: white;
+  background: linear-gradient(to right, rgb(152, 130, 255), rgb(95, 174, 255), rgb(51, 235, 255));
+  text-shadow: 0px 1px 2px #000000a1;
+    
+  }
+
+  .bannerBoxSettings{
+    
+    margin-top: 10em;
+    margin-bottom: 10em;
+    margin-right: auto;
+    margin-left: auto;
+    display: inline-grid;
+    width: -webkit-fill-available;
+    align-items: center;
+    flex-direction: column;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.85em;
+    font-family: "Montserrat";
+    background-color: transparent;
+    background-attachment: fixed;
+    background-position: center;
+    background-blend-mode: normal;
+    background-size: cover;
+}
+
+.bannerBoxSettings2{
+    
+  margin-top: 5em;
+  margin-bottom: 10em;
+  margin-right: auto;
+  margin-left: auto;
+  display: inline-grid;
+  width: -webkit-fill-available;
+  align-items: center;
+  flex-direction: column;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 0.85em;
+  font-family: "Montserrat";
+  background-color: transparent;
+  background-attachment: fixed;
+  background-position: center;
+  background-blend-mode: normal;
+  background-size: cover;
+}
+
+.bannerBoxSettings3{
+    
+  margin-top: 5em;
+  margin-bottom: 10em;
+  margin-right: auto;
+  margin-left: auto;
+  display: inline-grid;
+  width: -webkit-fill-available;
+  align-items: center;
+  flex-direction: column;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 0.85em;
+  font-family: "Montserrat";
+  background-color: transparent;
+  background-attachment: fixed;
+  background-position: center;
+  background-blend-mode: normal;
+  background-size: cover;
+}
+
+.mainSettings {
+
+  background : white;
+  height : 35em;
+}
+
+.h2Settings {
+  padding: 0.5em;
+  position: top;
+  border-radius: 0.25em;
+  margin: 1em;
+  font-size: 1.8em;
+  font-family: "Montserrat";
+  font-weight: 100;
+  text-align: justify;
+}
+      
+.bannerSectionSettings {
+
+  align-items: center;
+  height: auto;
+  width: 50em;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1em;
+  letter-spacing: .4px;
+  background: transparent;
+  background-attachment: fixed;
+  background-position: center;
+  background-blend-mode: overlay;
+  background-size: cover;
+  color: white;
+  background: transparent;
+  border-top: none;
+  font-size: small;
+  margin-left: 3em;
+  margin-right: 3em;
+  max-width: -webkit-fill-available;
+  padding-top : 0.5em;
+  padding-bottom: 3em;
+  
+
+}  
+
+.bannerSectionSettings2 {
+
+  align-items: center;
+  height: auto;
+  width: 50em;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1em;
+  letter-spacing: .4px;
+  background: transparent;
+  background-attachment: fixed;
+  background-position: center;
+  background-blend-mode: overlay;
+  background-size: cover;
+  color: white;
+  background: transparent;
+  border-top: none;
+  font-size: small;
+  margin-left: 3em;
+  margin-right: 3em;
+  max-width: -webkit-fill-available;
+  padding-top : 0.5em;
+  padding-bottom: 3em;
+
+}
+
+.bannerSectionSettings3 {
+ 
+  align-items: center;
+  height: auto;
+  width: 50em;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1em;
+  letter-spacing: .4px;
+  background: transparent;
+  background-attachment: fixed;
+  background-position: center;
+  background-blend-mode: overlay;
+  background-size: cover;
+  color: white;
+  background: transparent;
+  border-top: none;
+  font-size: small;
+  margin-left: 0em;
+  margin-right: 0em;
+  max-width: -webkit-fill-available;
+  padding-top : 0.5em;
+  padding-bottom: 3em;
+
+}  
+
+
+.bannerSettings h3 { 
+
+    background: transparent;
+    display : flex;
+    border-radius: 0.5em;
+    padding: 0 20px;
+    font-size: 1.5em;
+    color : white;
+    font-weight : 100;
+  }
+  
+  .inputSettingsPass input[type="password"] {
+
+    width: 100%;
+    border-right : none;
+    border-left : none;
+    border-top : none;
+    border-bottom : 1px solid black;
+    background : transparent;
+    font-family: "Montserrat";
+    font-size : medium;
+    margin: 10px 0;
+    height : 2.47em;
+    outline: none;
+    padding-right: 20px;
+    margin-right : 40px;
+    box-sizing: border-box;
+    transition: 0.3s;
+
+  }
+
+  .inputSettingsPass input[type="password"]:focus {  
+  
+    width : 100%;
+    border-color: rgb(30, 146, 255);
+    height : 2.48em;
+    font-size : medium;
+    box-shadow :0px 0.5px 0px rgb(30, 146, 255);
+
+  }
+
+  .inputWithIconSettingsPass { 
+
+    position: relative; 
+    width: fit-content;
+    text-align: -webkit-left;
+    
+  }
+
+  .inputWithIconSettingsPass .inputSettingsPass input[type="password"] {
+
+    padding-left: 40px;
+    font-size: 0.9em;
+    font-family: 'Montserrat';
+    color : black;
+}
+
+.inputWithIconSettingsPass i {
+  
+    position: absolute;
+    padding: 9px 0px;
+    top : 0em;
+    transition: 0.3s;
+    font-size : 25.2px;
+    color : black;
+   
+  }
+
+  .inputSettingsPass {
+    height: 5em;
+}
+
+  .inputSettings {
+
+    height: 5em;
+
+  }
+  .inputSettings input[type="mail"] {
+
+    width: -webkit-fill-available;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    border-bottom: 1px solid black;
+    background : transparent;
+    font-family: "Montserrat";
+    font-size: medium;
+    margin: 10px 0;
+    height: 2.47em;
+    outline: none;
+    padding-right: 20px;
+    padding-left: 20px;
+    box-sizing: border-box;
+    transition: 0.3s;
+    cursor : default;
+    
+  }
+
+  .inputWithIconSettings { 
+    position: relative; 
+    width: min-content;
+    text-align: -webkit-left;
+  }
+
+  
+  .inputWithIconSettings i {
+   
+    position: relative;
+    bottom : 1.9em;
+    padding: 9px 0px;
+    transition: 0.3s;
+    font-size : 25.2px;
+    color :black;
+   
+  }
+
+  .inputWithIconSettings .inputSettings input[type="mail"] {
+
+    padding-left: 45px;
+    font-size: small;
+    font-family: 'Montserrat';
+    color: black;
+
+  }
+ 
+  fieldset {
+
+    border-top : none;
+    border-bottom: none;
+    border-right: none;
+    border-left : none;
+    border-width: 2px;
+    border-style: solid;
+    border-color: transparent;
+    border-image: initial;
+    text-align: -webkit-center;
+    margin-right: 0;
+    margin-inline-start: 0;
+    margin-inline-end: 0;
+    padding-block-start: 0;
+    padding-inline-start: 0;
+    padding-inline-end: 0;
+    padding-block-end: 0;
+    min-inline-size: fit-content;
+    clear : right;    
+    margin-bottom: 2em;
+
+}
+
+.btn-change {
+
+
+  padding: 0.5em 1.25em;
+  transition: 0.4s;
+  display: inline-block;
+  margin-bottom: 0px;
+  margin-left: 1.5em;
+  margin-right: 1em;
+  font-weight: lighter;
+  font-size: smaller;
+  cursor: pointer;
+  text-transform: uppercase;
+  color: black;
+  background: linear-gradient(to right, rgb(31, 162, 255), rgb(0, 218, 255), rgb(0, 255, 107));
+  filter: hue-rotate(45deg);
+  border: 0.5px solid white;
+  box-shadow: 0px 0px 4px 2px linen;
+  text-shadow: 0px 1px 3px #6e6e6ea1;
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  outline: none;
+  
+  }
+
+  .pSettings {
+
+    font-size: small;  
+    margin-bottom : 2em;
+    color: black;
+    opacity: 80%;
+    
+    
+  }
+
+  .pSettings2 {
+
+    text-align : center;
+    padding-bottom : 1em;
+    font-size: small;  
+    color: black;
+    opacity: 80%;
+    
+  }
+
+  .sectionSettings {
+
+    width: auto;
+    background-color: transparent;
+    text-align: -webkit-center;
+
+
+  }
+
+  .h1Settings {
+
+    font-size: larger;
+    width: -webkit-fill-available;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    color: black;
+    background-color: transparent;
+    border-radius: 1px;
+    margin-right: 1.5em;
+    margin-left: 1.5em;
+    margin-top: 2em;
+    font-size: larger;
+    padding: 1em;
+    border-radius : 0.2em;
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+    letter-spacing: 0.5px;
+    color: black;
+    opacity : 80%;
+    text-align: center !important;
+    text-shadow: 0px 0.5px 0px #6e6e6ea1;
+
+  }
+
+
+.h3Settings {
+
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    color : black;
+    font-weight: normal;
+
+}
+
+
+
+.bubbleSettings {
+
+  background : white;
+  border-radius: 2em;
+  box-shadow: inset 0 1px 1px hsla(0,0%,100%,.5), 3px 3px 0 hsla(0,0%,0%,.1);
+  color: #333;
+  display: inline-block;
+  font: 16px/25px sans-serif;
+  padding: 15px 25px;
+  position: relative;
+  text-shadow: 0 1px 1px hsla(0,0%,100%,.5);
+  box-shadow: 0px 0px 0px #fff, 0px 1px 5px hsla(0,0%,0%,.1);
+  border: 3px solid #eef0f7;
+  margin-left: auto;
+  margin-right: auto;
+  width : 35em;
+
+}
+
+.bubbleSettings:after, 
+.bubbleSettings:before {
+
+border-bottom: 80px solid transparent;
+border-left: 60px solid white;
+bottom: -75px;
+content: '';
+position: absolute;
+left: 81px;
+
+}
+.bubbleSettings:before {
+
+bottom: -83px;
+left: 79px;
+border-left: 59px solid #eef0f7;
+
+}
+/**/
+
+.bubble2Settings {
+
+  background : white;
+  border-radius: 2em;
+  box-shadow: inset 0 1px 1px hsla(0,0%,100%,.5), 3px 3px 0 hsla(0,0%,0%,.1);
+  color: #333;
+  display: inline-block;
+  font: 16px/25px sans-serif;
+  padding: 15px 25px;
+  position: relative;
+  text-shadow: 0 1px 1px hsla(0,0%,100%,.5);
+  box-shadow: 0px 0px 0px #fff, 0px 1px 5px hsla(0,0%,0%,.1);
+  border: 3px solid #eef0f7;
+  margin-left: auto;
+  margin-right: auto;
+  width : 35em;
+
+}
+
+.bubble2Settings:after, 
+.bubble2Settings:before {
+
+border-bottom: 80px solid transparent;
+border-right: 60px solid white;
+bottom: -75px;
+content: '';
+position: absolute;
+right: 81px;
+
+}
+.bubble2Settings:before {
+
+bottom: -83px;
+right: 79px;
+border-right: 59px solid #eef0f7;
+
+}
+
+.bubble3Settings {
+
+  background : white;
+  border-radius: 2em;
+  box-shadow: inset 0 1px 1px hsla(0,0%,100%,.5), 3px 3px 0 hsla(0,0%,0%,.1);
+  color: #333;
+  display: inline-block;
+  font: 16px/25px sans-serif;
+  padding: 15px 25px;
+  position: relative;
+  text-shadow: 0 1px 1px hsla(0,0%,100%,.5);
+  box-shadow: 0px 0px 0px #fff, 0px 1px 5px hsla(0,0%,0%,.1);
+  border: 3px solid #eef0f7;
+  margin-left: auto;
+  margin-right: auto;
+  width : 35em;
+
+}

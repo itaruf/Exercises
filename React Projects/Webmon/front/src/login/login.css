@@ -1,0 +1,241 @@
+@import url("https://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css");
+
+.fa{
+    font-family: FontAwesome !important;
+   }
+
+/*.bodyConnexion {
+
+   
+  color : black;
+  font-family: "Montserrat";
+  height: 100%;
+  width: auto;
+  max-width: 100%;
+  min-width: 100%;
+  margin: 0;
+  display: flex;
+  min-height: 100vh;
+  justify-content: center;
+  flex-direction: column;
+  table-layout: fixed;
+  display: table;
+  background :linear-gradient(to right, rgb(201, 214, 255), rgb(226, 226, 226));
+    
+}
+*/
+
+
+
+.h2Connexion { 
+
+  letter-spacing: 0px;
+  padding: 0.5em; 
+  background: none;
+  position: top;
+  border-radius: 0.25em;
+  margin : 0.5em;
+  font-size: 1.6em; 
+  font-family: "Montserrat";
+  font-weight: 100; 
+  text-align: justify;
+  margin-top : 1.2em;
+  color: black;
+  opacity: 80%;
+  text-shadow: 0px 0.5px 0px #6e6e6ea1;
+
+
+}
+
+.linkDesignLogin {
+
+    color :rgb(61, 60, 60);
+    letter-spacing: 0px;
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+    letter-spacing : 0.5px!important;
+      
+}
+
+.pConnexion {
+
+  display : block;
+  line-height: 20px !important;
+  font-size : 1em;
+  font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+
+}
+
+/* Banner */
+
+.bannerBoxConnexion {
+
+  height :auto;
+  margin-top : 7em;
+  margin-bottom : 5em;
+  margin-right : auto;
+  margin-left : auto;
+  display: flex;
+  width : 28em;
+  align-items: center;
+  flex-direction: column;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1em;
+  letter-spacing: .4px;
+  font-family: "Montserrat";
+  background-color: white;
+  border: 0.5px solid white;
+  box-shadow: 0px 0px 6px 2px white;
+  background-attachment : fixed;
+  background-position: center;
+  background-blend-mode: normal;
+  background-size: cover;
+  box-shadow: 0px 0px 0px #fff, 0px 1px 5px hsla(0,0%,0%,.1);
+  border: 1.8px solid #eef0f7;
+
+}
+
+#divConnexion {
+
+    text-align :center;
+    color : black;
+    opacity : 90%;
+
+}
+
+.btn-auth {
+
+  padding: 0.5em 1.25em;
+  border-radius: 3.75em;
+  transition: 0.4s;
+  display: inline-block; 
+  margin-top : 1em;
+  margin-bottom: 1em;
+  margin-left: 1.5em;
+  margin-right : 0.5em;
+  font-weight: normal;
+  cursor: pointer;
+  color : white;
+  font-family : "Montserrat";
+  border: 0.5px solid rgb(20, 20, 20);
+  box-shadow: 0px 0px 5px 2px rgb(20, 20, 20);
+  background : rgb(20, 20, 20);
+  width: fit-content;
+  font-size: smaller;
+
+}
+
+.inputLogin input[type="mail"] {
+
+  width: 100%;
+  border-right: none;
+  border-left: none;
+  border-top: none;
+  border-bottom: 1px solid black;
+  background-color: white;
+  font-family: "Montserrat";
+  font-size: 0.98em;;
+  margin: 20px 0;
+  height: 2.47em;
+  outline: none;
+  padding-right: 20px;
+  box-sizing: border-box;
+  transition: 0.3s;
+  margin-top: 3em;
+  float: right;
+  letter-spacing: 0px !important;
+    
+  }
+
+  .inputLogin input[type="mail"]:focus {
+
+    color : black;
+    width : 100%;
+    height : 2.48em;
+    font-size: 0.98em;
+    border-color: rgb(30, 146, 255);
+    box-shadow :0px 0.5px 0px rgb(30, 146, 255);
+    
+  }
+
+  .inputLoginPass input[type="password"] {
+
+    width: 100%;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    border-bottom: 1px solid black;
+    background-color: white;
+    font-family: "Montserrat";
+    font-size: 0.98em;;
+    margin: 20px 0;
+    height: 2.47em;
+    outline: none;
+    padding-right: 20px;
+    box-sizing: border-box;
+    transition: 0.3s;
+    margin-top: 3em;
+    float: right;
+
+  }
+  
+  .inputLoginPass input[type="password"]:focus { 
+
+    color : black;
+    width : 100%;
+    height : 2.48em;
+    font-size: 0.98em;
+    border-color: rgb(30, 146, 255);
+    box-shadow :0px 0.5px 0px rgb(30, 146, 255);
+    
+  }
+
+  .inputWithIconLogin { 
+    position: relative; 
+    letter-spacing: 0px !important;
+
+  }
+
+  .inputWithIconLoginPass { 
+    position: relative; 
+    letter-spacing: 0px !important;
+
+  }
+  
+  .inputWithIconLogin i { 
+
+    position: absolute;
+    top: 1.2em;
+    padding: 9px 0px;
+    transition: 0.3s;
+    font-size : 25.2px;
+   
+  }
+
+  .inputWithIconLoginPass i { 
+
+    position: absolute;
+    top: 1.3em;
+    padding: 9px 0px;
+    transition: 0.3s;
+    font-size : 25.2px;
+   
+  }
+
+  .inputWithIconLogin .inputLogin input[type="mail"] {
+
+    padding-left: 35px;
+    /* font-size: 0.95em; */
+    font-family: 'Montserrat';
+    color: black;
+    
+
+  }
+  
+  .inputWithIconLoginPass .inputLoginPass input[type="password"] {
+
+    padding-left: 35px;
+   /* font-size: 0.9em;*/
+    font-family: 'Montserrat';
+    color : black;
+}

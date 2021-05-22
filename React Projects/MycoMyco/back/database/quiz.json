@@ -1,0 +1,636 @@
+{
+    "0": [
+        {
+            "Type": "Image",
+            "Titre": "À quel groupe appartient ce champignon ?",
+            "Choix": "Polypores",
+            "Status": "TRUE"
+        },
+        {
+            "Type": "Image",
+            "Titre": "À quel groupe appartient ce champignon ?",
+            "Choix": "Lépiotes",
+            "Status": "FALSE"
+        },
+        {
+            "Type": "Image",
+            "Titre": "À quel groupe appartient ce champignon ?",
+            "Choix": "Tricholomes",
+            "Status": "FALSE"
+        },
+        {
+            "Type": "Image",
+            "Titre": "À quel groupe appartient ce champignon ?",
+            "Choix": "Lactaires",
+            "Status": "FALSE"
+        },
+        {
+            "Type": "Image",
+            "Titre": "À quel groupe appartient ce champignon ?",
+            "Choix": "Amanites",
+            "Status": "FALSE"
+        }
+    ],
+    "1": [
+        {
+            "Type": "Texte",
+            "Titre": "Concernant le groupe Polypores, vous diriez qu’il contient :",
+            "Choix": "Beaucoup d’espèces toxiques",
+            "Status": "FALSE"
+        },
+        {
+            "Type": "Texte",
+            "Titre": "Concernant le groupe Polypores, vous diriez qu’il contient :",
+            "Choix": "Quelque espèces mortelles",
+            "Status": "FALSE"
+        },
+        {
+            "Type": "Texte",
+            "Titre": "Concernant le groupe Polypores, vous diriez qu’il contient :",
+            "Choix": "Beaucoup d’espèces sans intérêt culinaire (à rejeter)",
+            "Status": "TRUE"
+        },
+        {
+            "Type": "Texte",
+            "Titre": "Concernant le groupe Polypores, vous diriez qu’il contient :",
+            "Choix": "Des espèces avec un hyménophore poré",
+            "Status": "TRUE"
+        },
+        {
+            "Type": "Texte",
+            "Titre": "Concernant le groupe Polypores, vous diriez qu’il contient :",
+            "Choix": "Beaucoup d’espèces comestibles",
+            "Status": "FALSE"
+        }
+    ],
+    "2": [
+        {
+            "Type": "Image",
+            "Titre": "À quel groupe appartient ce champignon ?",
+            "Choix": "Hypholomes",
+            "Status": "FALSE"
+        },
+        {
+            "Type": "Image",
+            "Titre": "À quel groupe appartient ce champignon ?",
+            "Choix": "Girolles et Chanterelles",
+            "Status": "TRUE"
+        },
+        {
+            "Type": "Image",
+            "Titre": "À quel groupe appartient ce champignon ?",
+            "Choix": "Tricholomes",
+            "Status": "FALSE"
+        },
+        {
+            "Type": "Image",
+            "Titre": "À quel groupe appartient ce champignon ?",
+            "Choix": "Lactaires",
+            "Status": "FALSE"
+        },
+        {
+            "Type": "Image",
+            "Titre": "À quel groupe appartient ce champignon ?",
+            "Choix": "Amanites",
+            "Status": "FALSE"
+        }
+    ],
+    "3": [
+        {
+            "Type": "Texte",
+            "Titre": "Concernant le groupe Girolles, vous diriez qu’il contient :",
+            "Choix": "Beaucoup d’espèces toxiques",
+            "Status": "FALSE"
+        },
+        {
+            "Type": "Texte",
+            "Titre": "Concernant le groupe Girolles, vous diriez qu’il contient :",
+            "Choix": "Des espèces avec un hyménophore à aiguillons",
+            "Status": "FALSE"
+        },
+        {
+            "Type": "Texte",
+            "Titre": "Concernant le groupe Girolles, vous diriez qu’il contient :",
+            "Choix": "Quelques espèces mortelles",
+            "Status": "FALSE"
+        },
+        {
+            "Type": "Texte",
+            "Titre": "Concernant le groupe Girolles, vous diriez qu’il contient :",
+            "Choix": "Des espèces avec un hyménophore à plis",
+            "Status": "TRUE"
+        },
+        {
+            "Type": "Texte",
+            "Titre": "Concernant le groupe Girolles, vous diriez qu’il contient :",
+            "Choix": "Beaucoup d’espèces comestibles",
+            "Status": "TRUE"
+        }
+    ],
+    "4": [
+        {
+            "Type": "Texte",
+            "Titre": "Quel est le nom français de l'espèce \"Macrolepiota procera\" ?",
+            "Choix": "Lépiote excoriée",
+            "Status": "FALSE"
+        },
+        {
+            "Type": "Texte",
+            "Titre": "Quel est le nom français de l'espèce \"Macrolepiota procera\" ?",
+            "Choix": "Lépiote mammelonnée",
+            "Status": "FALSE"
+        },
+        {
+            "Type": "Texte",
+            "Titre": "Quel est le nom français de l'espèce \"Macrolepiota procera\" ?",
+            "Choix": "Lépiote gracile",
+            "Status": "FALSE"
+        },
+        {
+            "Type": "Texte",
+            "Titre": "Quel est le nom français de l'espèce \"Macrolepiota procera\" ?",
+            "Choix": "Lépiote élevée",
+            "Status": "TRUE"
+        }
+    ],
+    "5": [
+        {
+            "Type": "Image",
+            "Titre": "À quel groupe appartient ce champignon ?",
+            "Choix": "Agarics",
+            "Status": "FALSE"
+        },
+        {
+            "Type": "Image",
+            "Titre": "À quel groupe appartient ce champignon ?",
+            "Choix": "Lépiotes",
+            "Status": "FALSE"
+        },
+        {
+            "Type": "Image",
+            "Titre": "À quel groupe appartient ce champignon ?",
+            "Choix": "Russules",
+            "Status": "FALSE"
+        },
+        {
+            "Type": "Image",
+            "Titre": "À quel groupe appartient ce champignon ?",
+            "Choix": "Lactaires",
+            "Status": "TRUE"
+        },
+        {
+            "Type": "Image",
+            "Titre": "À quel groupe appartient ce champignon ?",
+            "Choix": "Amanites",
+            "Status": "FALSE"
+        }
+    ],
+    "6": [
+        {
+            "Type": "Image",
+            "Titre": "À quel groupe appartient ce champignon ?",
+            "Choix": "Leccinum",
+            "Status": "FALSE"
+        },
+        {
+            "Type": "Image",
+            "Titre": "À quel groupe appartient ce champignon ?",
+            "Choix": "Xerocomus",
+            "Status": "FALSE"
+        },
+        {
+            "Type": "Image",
+            "Titre": "À quel groupe appartient ce champignon ?",
+            "Choix": "Boletus",
+            "Status": "TRUE"
+        },
+        {
+            "Type": "Image",
+            "Titre": "À quel groupe appartient ce champignon ?",
+            "Choix": "Suillus",
+            "Status": "FALSE"
+        },
+        {
+            "Type": "Image",
+            "Titre": "À quel groupe appartient ce champignon ?",
+            "Choix": "Amanita",
+            "Status": "FALSE"
+        }
+    ],
+    "7": [
+        {
+            "Type": "Texte",
+            "Titre": "Concernant le genre auquel Boletus, vous diriez qu’il contient :",
+            "Choix": "Beaucoup d’espèces toxiques",
+            "Status": "FALSE"
+        },
+        {
+            "Type": "Texte",
+            "Titre": "Concernant le genre auquel Boletus, vous diriez qu’il contient :",
+            "Choix": "Quelques espèces mortelles",
+            "Status": "FALSE"
+        },
+        {
+            "Type": "Texte",
+            "Titre": "Concernant le genre auquel Boletus, vous diriez qu’il contient :",
+            "Choix": "Beaucoup d’espèces sans intérêt culinaire (à rejeter)",
+            "Status": "FALSE"
+        },
+        {
+            "Type": "Texte",
+            "Titre": "Concernant le genre auquel Boletus, vous diriez qu’il contient :",
+            "Choix": "Des espèces avec un hyménophore à tubes",
+            "Status": "TRUE"
+        },
+        {
+            "Type": "Texte",
+            "Titre": "Concernant le genre auquel Boletus, vous diriez qu’il contient :",
+            "Choix": "Beaucoup d’espèces comestibles",
+            "Status": "TRUE"
+        }
+    ],
+    "8": [
+        {
+            "Type": "Texte",
+            "Titre": "Concernant le groupe Amanites, vous diriez qu’il contient :",
+            "Choix": "Beaucoup d’espèces toxiques",
+            "Status": "TRUE"
+        },
+        {
+            "Type": "Texte",
+            "Titre": "Concernant le groupe Amanites, vous diriez qu’il contient :",
+            "Choix": "Quelques espèces mortelles",
+            "Status": "TRUE"
+        },
+        {
+            "Type": "Texte",
+            "Titre": "Concernant le groupe Amanites, vous diriez qu’il contient :",
+            "Choix": "Des espèces avec des lames décurrentes",
+            "Status": "FALSE"
+        },
+        {
+            "Type": "Texte",
+            "Titre": "Concernant le groupe Amanites, vous diriez qu’il contient :",
+            "Choix": "Beaucoup d’espèces sans intérêt culinaire (à rejeter)",
+            "Status": "FALSE"
+        },
+        {
+            "Type": "Texte",
+            "Titre": "Concernant le groupe Amanites, vous diriez qu’il contient :",
+            "Choix": "Des espèces avec un anneau et une volve",
+            "Status": "TRUE"
+        }
+    ],
+    "9": [
+        {
+            "Type": "Image",
+            "Titre": "À quel groupe appartient ce champignon ?",
+            "Choix": "Agarics",
+            "Status": "FALSE"
+        },
+        {
+            "Type": "Image",
+            "Titre": "À quel groupe appartient ce champignon ?",
+            "Choix": "Lépiotes",
+            "Status": "TRUE"
+        },
+        {
+            "Type": "Image",
+            "Titre": "À quel groupe appartient ce champignon ?",
+            "Choix": "Russules",
+            "Status": "FALSE"
+        },
+        {
+            "Type": "Image",
+            "Titre": "À quel groupe appartient ce champignon ?",
+            "Choix": "Collybies",
+            "Status": "FALSE"
+        },
+        {
+            "Type": "Image",
+            "Titre": "À quel groupe appartient ce champignon ?",
+            "Choix": "Amanites",
+            "Status": "FALSE"
+        }
+    ],
+    "10": [
+        {
+            "Type": "Texte",
+            "Titre": "Concernant le groupe Lépiotes, vous diriez qu’il contient :",
+            "Choix": "Beaucoup d’espèces toxiques",
+            "Status": "TRUE"
+        },
+        {
+            "Type": "Texte",
+            "Titre": "Concernant le groupe Lépiotes, vous diriez qu’il contient :",
+            "Choix": "Des espèces avec un anneau et une volve",
+            "Status": "FALSE"
+        },
+        {
+            "Type": "Texte",
+            "Titre": "Concernant le groupe Lépiotes, vous diriez qu’il contient :",
+            "Choix": "Quelques espèces mortelles",
+            "Status": "TRUE"
+        },
+        {
+            "Type": "Texte",
+            "Titre": "Concernant le groupe Lépiotes, vous diriez qu’il contient :",
+            "Choix": "Beaucoup d’espèces sans intérêt culinaire (à rejeter)",
+            "Status": "FALSE"
+        },
+        {
+            "Type": "Texte",
+            "Titre": "Concernant le groupe Lépiotes, vous diriez qu’il contient :",
+            "Choix": "Beaucoup d’espèces comestibles",
+            "Status": "FALSE"
+        }
+    ],
+    "11": [
+        {
+            "Type": "Image",
+            "Titre": "À quel groupe appartient ce champignon ?",
+            "Choix": "Agarics",
+            "Status": "FALSE"
+        },
+        {
+            "Type": "Image",
+            "Titre": "À quel groupe appartient ce champignon ?",
+            "Choix": "Lépiotes",
+            "Status": "FALSE"
+        },
+        {
+            "Type": "Image",
+            "Titre": "À quel groupe appartient ce champignon ?",
+            "Choix": "Russules",
+            "Status": "TRUE"
+        },
+        {
+            "Type": "Image",
+            "Titre": "À quel groupe appartient ce champignon ?",
+            "Choix": "Lactaires",
+            "Status": "FALSE"
+        },
+        {
+            "Type": "Image",
+            "Titre": "À quel groupe appartient ce champignon ?",
+            "Choix": "Amanites",
+            "Status": "FALSE"
+        }
+    ],
+    "12": [
+        {
+            "Type": "Texte",
+            "Titre": "Concernant le groupe Russules, vous diriez qu’il contient :",
+            "Choix": "Beaucoup d’espèces toxiques",
+            "Status": "FALSE"
+        },
+        {
+            "Type": "Texte",
+            "Titre": "Concernant le groupe Russules, vous diriez qu’il contient :",
+            "Choix": "Des espèces à trame grenue",
+            "Status": "TRUE"
+        },
+        {
+            "Type": "Texte",
+            "Titre": "Concernant le groupe Russules, vous diriez qu’il contient :",
+            "Choix": "Beaucoup d’espèces sans intérêt culinaire (à rejeter",
+            "Status": "TRUE"
+        },
+        {
+            "Type": "Texte",
+            "Titre": "Concernant le groupe Russules, vous diriez qu’il contient :",
+            "Choix": "Des espèces à trame fibreuse",
+            "Status": "FALSE"
+        },
+        {
+            "Type": "Texte",
+            "Titre": "Concernant le groupe Russules, vous diriez qu’il contient :",
+            "Choix": "Quelques espèces comestibles",
+            "Status": "TRUE"
+        }
+    ],
+    "13": [
+        {
+            "Type": "Texte",
+            "Titre": "Concernant le groupe Lactaires, vous diriez qu’il contient :",
+            "Choix": "Beaucoup d’espèces toxiques",
+            "Status": "FALSE"
+        },
+        {
+            "Type": "Texte",
+            "Titre": "Concernant le groupe Lactaires, vous diriez qu’il contient :",
+            "Choix": "Des espèces à trame grenue",
+            "Status": "TRUE"
+        },
+        {
+            "Type": "Texte",
+            "Titre": "Concernant le groupe Lactaires, vous diriez qu’il contient :",
+            "Choix": "Beaucoup d’espèces sans intérêt culinaire (à rejeter)",
+            "Status": "TRUE"
+        },
+        {
+            "Type": "Texte",
+            "Titre": "Concernant le groupe Lactaires, vous diriez qu’il contient :",
+            "Choix": "Quelques espèces comestibles",
+            "Status": "TRUE"
+        },
+        {
+            "Type": "Texte",
+            "Titre": "Concernant le groupe Lactaires, vous diriez qu’il contient :",
+            "Choix": "Des espèces à trame fibreuse",
+            "Status": "FALSE"
+        }
+    ],
+    "14": [
+        {
+            "Type": "Image",
+            "Titre": "À quel groupe appartient ce champignon ?",
+            "Choix": "Hypholomes",
+            "Status": "FALSE"
+        },
+        {
+            "Type": "Image",
+            "Titre": "À quel groupe appartient ce champignon ?",
+            "Choix": "Lépiotes",
+            "Status": "FALSE"
+        },
+        {
+            "Type": "Image",
+            "Titre": "À quel groupe appartient ce champignon ?",
+            "Choix": "Tricholomes",
+            "Status": "TRUE"
+        },
+        {
+            "Type": "Image",
+            "Titre": "À quel groupe appartient ce champignon ?",
+            "Choix": "Lactaires",
+            "Status": "FALSE"
+        },
+        {
+            "Type": "Image",
+            "Titre": "À quel groupe appartient ce champignon ?",
+            "Choix": "Amanites",
+            "Status": "FALSE"
+        }
+    ],
+    "15": [
+        {
+            "Type": "Texte",
+            "Titre": "Concernant le groupe Tricholomes, vous diriez qu’il contient :",
+            "Choix": "Beaucoup d’espèces toxiques",
+            "Status": "TRUE"
+        },
+        {
+            "Type": "Texte",
+            "Titre": "Concernant le groupe Tricholomes, vous diriez qu’il contient :",
+            "Choix": "Des espèces à lames échancrées",
+            "Status": "TRUE"
+        },
+        {
+            "Type": "Texte",
+            "Titre": "Concernant le groupe Tricholomes, vous diriez qu’il contient :",
+            "Choix": "Des espèces à lames libres",
+            "Status": "FALSE"
+        },
+        {
+            "Type": "Texte",
+            "Titre": "Concernant le groupe Tricholomes, vous diriez qu’il contient :",
+            "Choix": "Beaucoup d’espèces sans intérêt culinaire (à rejeter)",
+            "Status": "FALSE"
+        },
+        {
+            "Type": "Texte",
+            "Titre": "Concernant le groupe Tricholomes, vous diriez qu’il contient :",
+            "Choix": "Beaucoup d’espèces comestibles",
+            "Status": "FALSE"
+        }
+    ],
+    "16": [
+        {
+            "Type": "Image",
+            "Titre": "À quel groupe appartient ce champignon ?",
+            "Choix": "Cortinaires",
+            "Status": "TRUE"
+        },
+        {
+            "Type": "Image",
+            "Titre": "À quel groupe appartient ce champignon ?",
+            "Choix": "Lépiotes",
+            "Status": "FALSE"
+        },
+        {
+            "Type": "Image",
+            "Titre": "À quel groupe appartient ce champignon ?",
+            "Choix": "Tricholomes",
+            "Status": "FALSE"
+        },
+        {
+            "Type": "Image",
+            "Titre": "À quel groupe appartient ce champignon ?",
+            "Choix": "Lactaires",
+            "Status": "FALSE"
+        },
+        {
+            "Type": "Image",
+            "Titre": "À quel groupe appartient ce champignon ?",
+            "Choix": "Amanites",
+            "Status": "FALSE"
+        }
+    ],
+    "17": [
+        {
+            "Type": "Texte",
+            "Titre": "Concernant le groupe Cortinaires, vous diriez qu’il contient :",
+            "Choix": "Beaucoup d’espèces toxiques",
+            "Status": "TRUE"
+        },
+        {
+            "Type": "Texte",
+            "Titre": "Concernant le groupe Cortinaires, vous diriez qu’il contient :",
+            "Choix": "Quelques espèces mortelles",
+            "Status": "TRUE"
+        },
+        {
+            "Type": "Texte",
+            "Titre": "Concernant le groupe Cortinaires, vous diriez qu’il contient :",
+            "Choix": "Des espèces avec une volve",
+            "Status": "FALSE"
+        },
+        {
+            "Type": "Texte",
+            "Titre": "Concernant le groupe Cortinaires, vous diriez qu’il contient :",
+            "Choix": "Des espèces avec une cortine",
+            "Status": "FALSE"
+        },
+        {
+            "Type": "Texte",
+            "Titre": "Concernant le groupe Cortinaires, vous diriez qu’il contient :",
+            "Choix": "Beaucoup d’espèces comestibles",
+            "Status": "FALSE"
+        }
+    ],
+    "18": [
+        {
+            "Type": "Image",
+            "Titre": "À quel groupe appartient ce champignon ?",
+            "Choix": "Hypholomes",
+            "Status": "FALSE"
+        },
+        {
+            "Type": "Image",
+            "Titre": "À quel groupe appartient ce champignon ?",
+            "Choix": "Lépiotes",
+            "Status": "FALSE"
+        },
+        {
+            "Type": "Image",
+            "Titre": "À quel groupe appartient ce champignon ?",
+            "Choix": "Hébélomes",
+            "Status": "TRUE"
+        },
+        {
+            "Type": "Image",
+            "Titre": "À quel groupe appartient ce champignon ?",
+            "Choix": "Lactaires",
+            "Status": "FALSE"
+        },
+        {
+            "Type": "Image",
+            "Titre": "À quel groupe appartient ce champignon ?",
+            "Choix": "Amanites",
+            "Status": "FALSE"
+        }
+    ],
+    "19": [
+        {
+            "Type": "Texte",
+            "Titre": "Concernant le groupe Hébélomes, vous diriez qu’il contient :",
+            "Choix": "Beaucoup d’espèces toxiques",
+            "Status": "TRUE"
+        },
+        {
+            "Type": "Texte",
+            "Titre": "Concernant le groupe Hébélomes, vous diriez qu’il contient :",
+            "Choix": "Beaucoup d’espèces mortelles",
+            "Status": "FALSE"
+        },
+        {
+            "Type": "Texte",
+            "Titre": "Concernant le groupe Hébélomes, vous diriez qu’il contient :",
+            "Choix": "Des espèces à lames échancrées",
+            "Status": "TRUE"
+        },
+        {
+            "Type": "Texte",
+            "Titre": "Concernant le groupe Hébélomes, vous diriez qu’il contient :",
+            "Choix": "Beaucoup d’espèces comestibles",
+            "Status": "FALSE"
+        },
+        {
+            "Type": "Texte",
+            "Titre": "Concernant le groupe Hébélomes, vous diriez qu’il contient :",
+            "Choix": "Des espèces à lames décurrentes",
+            "Status": "FALSE"
+        }
+    ]
+}

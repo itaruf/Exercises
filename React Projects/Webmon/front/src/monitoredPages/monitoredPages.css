@@ -1,0 +1,515 @@
+.bannerMP {
+
+  height: auto;
+  width: 100%;
+  margin-bottom: 0em;
+  padding-top: 1em;
+  padding-bottom: 2em;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 0.875em;
+  letter-spacing: .4px;
+  background-attachment: fixed;
+  background-position: center;
+  background-blend-mode: overlay;
+  background-size: cover;
+  color: white;
+  background: linear-gradient(to right, rgb(152, 130, 255), rgb(95, 174, 255), rgb(51, 235, 255));
+  text-shadow: 0px 1px 2px #000000a1;
+
+}
+
+.bannerBoxMP {
+
+  margin-top: 10em;
+  margin-bottom: 10em;
+  margin-right: auto;
+  margin-left: auto;
+  display: inline-grid;
+  width: -webkit-fill-available;
+  align-items: center;
+  flex-direction: column;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 0.85em;
+  font-family: "Montserrat";
+  background-color: transparent;
+  background-attachment: fixed;
+  background-position: center;
+  background-blend-mode: normal;
+  background-size: cover;
+
+}
+
+.bannerBoxMP2 {
+  
+margin-top: 5em;
+margin-bottom: 5em;
+margin-right: 20em;
+margin-left: 20em;
+display: flex;
+width: -webkit-fill-available;
+align-items: center;
+flex-direction: column;
+font-style: normal;
+font-weight: 400;
+font-size:  0.85em;
+letter-spacing: .4px;
+font-family: "Montserrat";
+background-color: transparent;
+background-attachment: fixed;
+background-position: center;
+background-blend-mode: normal;
+background-size: cover;
+
+}
+
+.mainMP {
+
+    width : 100%;
+    background-color : transparent;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.span {
+
+  float: none;
+  clear: right;
+  text-align: right;
+  margin-left: 2.6em;
+}
+
+.h1MP { 
+
+  margin-top :1em;
+  background: none;
+  margin-bottom : 1em;
+  font-size: 1em; 
+  font-family: "Montserrat";
+  font-weight: 100; 
+  text-align: justify;
+  color : white;
+  margin-left : 0.5em;
+
+
+}
+
+  .h2MP { 
+    padding: 0.5em; 
+    background: none;
+    position: top;
+    border-radius: 0.25em;
+    margin : 1em;
+    font-size: 1.8em;
+    font-family: "Montserrat";
+    font-weight: 100;
+    text-align: justify;
+
+  }
+
+  .h3MP { 
+
+    text-align: justify;
+    padding: 0.5em; /* le padding sert à créer un espace intérieur*/
+    background: none;
+    position: top;
+    border-radius: 0.25em;
+    margin : 0.5;
+    font-size: 2.2em; /*taille de l'écriture*/
+    font-family: "Montserrat";
+    font-weight: 100; /*épaississement de l'écriture*/
+    
+  }
+
+  .pMP {
+
+    line-height: 1.5;
+    margin-top : 1em;
+    text-align: center;
+    font-size: small;
+    margin-block-start: 1em;
+    margin-block-end: 0em;
+    margin-inline-start: 0em;
+    margin-inline-end: 0px;
+    max-width: unset;
+    min-width: unset;
+
+  }
+
+  .aMP {
+
+    text-decoration: none;
+    color: black;
+
+  }
+  
+  .aMP:hover {
+    text-decoration: underline;
+  }
+  
+
+.BannerSection {
+
+    align-items: center;
+    height: auto;
+    width: 50em;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1em;
+    letter-spacing: .4px;
+    background: transparent;
+    background-attachment: fixed;
+    background-position: center;
+    background-blend-mode: overlay;
+    background-size: cover;
+    color: white;
+    background: transparent;
+    border-top: none;
+    font-size: small;
+    margin-left: 3em;
+    margin-right: 3em;
+    max-width: -webkit-fill-available;
+    padding-top : 0.5em;
+    padding-bottom: 3em;
+
+}
+
+
+.BannerSection2 {
+
+  align-items: center;
+  height: auto;
+  width: 60em;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1em;
+  letter-spacing: .4px;
+  background: transparent;
+  background-attachment: fixed;
+  background-position: center;
+  background-blend-mode: overlay;
+  background-size: cover;
+  color: white;
+  background: transparent;
+  border-top: none;
+  font-size: small;
+  max-width: -webkit-fill-available;
+
+}
+
+
+.section {
+
+width: -webkit-fill-available;
+background : transparent;
+
+}
+
+.inputUrl input[type="text"] { 
+
+  width: -webkit-fill-available;
+  border: 0.5px solid rgb(199, 191, 183);
+  background-color : white;
+  font-family: 'Lucida Sans Unicode',  sans-serif;
+  font-size : 1em;
+  height : 2.47em;
+  outline: none;
+  transition: 0.3s;
+  /*margin-top : 2.5em;*/
+  margin-bottom : 2.5em;
+  box-sizing: border-box;
+  padding-left :  0.5em;
+  padding-right : 0.5em;
+  color: rgb(53, 53, 53);
+    
+}
+
+.inputUrl input[type="text"]:focus { 
+
+  width: -webkit-fill-available;
+  font-size : 1em;
+  height : 2.48em;
+  box-shadow: 0px 0px 4px 0px linen;
+    
+}
+
+.labelDesignMP {
+
+padding: 0.5em;
+font-family: "Montserrat";
+font-weight: 100;
+text-align: center;
+color: white;
+margin-top: 1em;
+font-size: 1.1em;
+color: white;
+font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+letter-spacing: 0.5px;
+text-shadow: 0px 1px 2px #000000a1;
+
+}
+
+.labelDesignMP2 {
+
+padding: 0.5em;
+padding-top: 1.5em;
+padding-bottom: 1.5em;
+text-align: left;
+background: linear-gradient(to right,rgb(51, 235, 255) , rgb(95, 174, 255),rgb(152, 130, 255));
+width: -webkit-fill-available;
+letter-spacing: inherit;
+font-size: 1.1em;
+font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+text-shadow: 0px 1px 2px #000000a1;
+letter-spacing: 0.5px;
+color: white;
+border-top-left-radius: 1em;
+border-top-right-radius: 1em;
+
+}
+
+.divErrorMP {
+
+  margin-top : 2em;
+  margin-bottom : 2em;
+  text-align: -webkit-center !important;
+  
+}
+
+.btn-add {
+
+  padding: 0.5em 1.25em;
+  /*border-radius: 3.75em;*/
+  transition: 0.4s;
+  display: inline-block;
+  margin-bottom: 0px;
+  margin-left: 1.5em;
+  margin-right: 1em;
+  font-weight: lighter;
+  font-size: smaller;
+  cursor: pointer;
+  border: 0.5px solid white;
+  box-shadow: 0px 0px 2px 2px linen;
+  text-shadow: 0px 0px 1px #00d6ff;
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  outline: none;
+  border-radius: 0.5em;
+  color: white;
+  background: linear-gradient(to right, rgb(152, 130, 255), rgb(95, 174, 255), rgb(51, 235, 255));
+  text-shadow: 0px 1px 2px #000000a1;
+
+
+}
+
+.div-add {
+
+text-align: center;
+padding-bottom : 0em;
+}
+
+.btn-delete {
+
+  position: relative;
+  float: none;
+  clear: right;
+  border-radius: 1em;
+  transition: 0.4s;
+  font-size: 1.1em;
+  margin-left: 3em;
+  margin-right: 1em;
+  font-weight: lighter;
+  cursor: pointer;
+  color: black;
+  background: transparent;
+  text-align: center;
+  border: none;
+  text-shadow: 0px 1px 2px #6e6e6ea1;
+  outline: none;
+
+}
+
+.btn-see {
+
+  position: relative;
+  float: none;
+  clear: right;
+  border-radius: 1em;
+  transition: 0.4s;
+  font-size: 1.1em;
+  margin-left: 3em;
+  margin-right: 0.75em;
+  font-weight: lighter;
+  cursor: pointer;
+  color: black;
+  background: transparent;
+  text-align: center;
+  border: none;
+  text-shadow: 0px 1px 2px #6e6e6ea1;
+  outline: none;
+
+}
+
+.faDelete {
+
+  position : relative; 
+  float: right;
+  clear: right;
+  font-size : larger;
+  font-weight: lighter;
+  text-align : center;
+
+}
+
+.faImage {
+
+  position : relative; 
+  float: right;
+  clear: right;
+  font-size : larger;
+  font-weight: lighter;
+  text-align : center;
+  margin-right : 2em;
+  color: black !important;
+
+}
+
+.faQuestion {
+
+  color: white;
+  text-shadow: 0px 0px 2px #ffffff;
+  cursor : pointer;
+  float : right;
+  font-size: 1.5em;
+
+}
+
+.btn-help {
+
+  position: relative;
+  font-size: 2em;
+  font-weight: lighter;
+  cursor: pointer;
+  color: black;
+  background: transparent;
+  border: none;
+  text-shadow: 0px 1px 2px #6e6e6ea1;
+  outline: none;
+  display : inline;
+
+}
+
+.divMP {
+position: relative;
+padding-top: 1em;
+padding-bottom: 1em;
+border-top: 1px solid rgb(231, 231, 231);
+
+}
+
+.divMP:nth-child(even) {
+
+/*background: white;*/
+overflow-wrap: anywhere;
+color: rgb(108, 59, 255);
+font-size: 1em;
+display: flex;
+padding-right : 1em;
+font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+text-shadow: none;
+letter-spacing: 0.5px;
+
+}
+
+.divMP:nth-child(odd) {
+
+/*background: rgb(250, 250, 250);*/
+overflow-wrap: anywhere;
+color: rgb(0, 174, 255);
+font-size: 1em;
+display: flex;
+padding-right : 1em;
+font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+letter-spacing: 0.5px;
+
+}
+
+.divMP:first-child {
+
+border-style : none;
+
+}
+
+.divMP:last-child {
+
+  border-top : 1px solid rgb(231, 231, 231);
+  border-bottom-left-radius: 2em;
+  border-bottom-right-radius: 2em;
+  
+}
+
+  .bubbleMP {
+
+    background : linear-gradient(to right,rgb(51, 235, 255) , rgb(95, 174, 255),rgb(152, 130, 255));
+    border-radius: 2em;
+    box-shadow: inset 0 1px 1px hsla(0,0%,100%,.5), 3px 3px 0 hsla(0,0%,0%,.1);
+    color: #333;
+    display: inline-block;
+    font: 16px/25px sans-serif;
+    padding: 15px 25px;
+    position: relative;
+    text-shadow: 0 1px 1px hsla(0,0%,100%,.5);
+    box-shadow: 0px 0px 0px #fff, 0px 1px 5px hsla(0,0%,0%,.1);
+    border: 3px solid #eef0f7;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.bubbleMP:after, 
+.bubbleMP:before {
+
+border-bottom: 80px solid transparent;
+border-left: 60px solid #3ddaff;
+bottom: -75px;
+content: '';
+position: absolute;
+left: 81px;
+ 
+ }
+.bubbleMP:before {
+
+border-left: 25px solid hsla(0,0%,0%,.1);
+bottom: -83px;
+left: 79px;
+border-left: 59px solid #eef0f7;
+
+}
+/**/
+
+.bubble2MP {
+
+  background : white;
+  border-radius: 2em;
+  box-shadow: inset 0 1px 1px hsla(0,0%,100%,.5), 3px 3px 0 hsla(0,0%,0%,.1);
+  color: #333;
+  display: inline-block;
+  /*font: 16px/25px sans-serif;*/
+  /*padding: 15px 25px;*/
+  position: relative;
+  text-shadow: 0 1px 1px hsla(0,0%,100%,.5);
+  box-shadow: 0px 0px 0px #fff, 0px 1px 5px hsla(0,0%,0%,.1);
+  border: 3px solid #eef0f7;
+  margin-left: auto;
+  margin-right: auto;
+
+
+
+}

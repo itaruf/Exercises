@@ -1,0 +1,53 @@
+html {
+
+  position: relative;
+  font-size: 0.95em;
+   
+ }
+ 
+ body {
+ 
+   color : black;
+   font-family: "Montserrat";
+   max-width: 100%;
+   min-width: 100%;
+   margin: 0;
+   min-height: 100vh;
+   justify-content: center;
+   flex-direction: column;
+   table-layout: fixed;
+   display: table; /*permet de fixer le footer en bas de page*/
+   background : ghostwhite;
+   /*linear-gradient(to right, rgb(201, 214, 255), rgb(227, 246, 251));*/
+ 
+ }
+ 
+ div {
+ 
+     position : relative;
+     font-size: 97.5%;
+     letter-spacing: 0px !important;
+ }
+ 
+ .root {
+   
+   background-color :  transparent;
+ 
+ }
+ 
+ .body {
+
+
+  color : black;
+  font-family: "Montserrat";
+  max-width: 100%;
+  min-width: 100%;
+  margin: 0;
+  min-height: 100vh;
+  justify-content: center;
+  flex-direction: column;
+  table-layout: fixed;
+  display: table; /*permet de fixer le footer en bas de page*/
+  background : ghostwhite;
+  /*linear-gradient(to right, rgb(201, 214, 255), rgb(227, 246, 251));*/
+  }

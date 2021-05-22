@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="private" author="true" classpath="." destdir="src/doc" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="up.mi.projet1.main,up.mi.projet1.menu1,up.mi.projet1.menu2,up.mi.projet1.graphe" source="13" sourcepath="src" splitindex="true" use="true" version="true"/>
+    </target>
+</project>
