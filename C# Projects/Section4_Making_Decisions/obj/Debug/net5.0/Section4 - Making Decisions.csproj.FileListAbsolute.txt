@@ -1,0 +1,16 @@
+E:\Programmation\CS\Section4 - Making Decisions\bin\Debug\net5.0\Section4 - Making Decisions.exe
+E:\Programmation\CS\Section4 - Making Decisions\bin\Debug\net5.0\Section4 - Making Decisions.deps.json
+E:\Programmation\CS\Section4 - Making Decisions\bin\Debug\net5.0\Section4 - Making Decisions.runtimeconfig.json
+E:\Programmation\CS\Section4 - Making Decisions\bin\Debug\net5.0\Section4 - Making Decisions.runtimeconfig.dev.json
+E:\Programmation\CS\Section4 - Making Decisions\bin\Debug\net5.0\Section4 - Making Decisions.dll
+E:\Programmation\CS\Section4 - Making Decisions\bin\Debug\net5.0\ref\Section4 - Making Decisions.dll
+E:\Programmation\CS\Section4 - Making Decisions\bin\Debug\net5.0\Section4 - Making Decisions.pdb
+E:\Programmation\CS\Section4 - Making Decisions\obj\Debug\net5.0\Section4 - Making Decisions.csproj.AssemblyReference.cache
+E:\Programmation\CS\Section4 - Making Decisions\obj\Debug\net5.0\Section4 - Making Decisions.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programmation\CS\Section4 - Making Decisions\obj\Debug\net5.0\Section4 - Making Decisions.AssemblyInfoInputs.cache
+E:\Programmation\CS\Section4 - Making Decisions\obj\Debug\net5.0\Section4 - Making Decisions.AssemblyInfo.cs
+E:\Programmation\CS\Section4 - Making Decisions\obj\Debug\net5.0\Section4 - Making Decisions.csproj.CoreCompileInputs.cache
+E:\Programmation\CS\Section4 - Making Decisions\obj\Debug\net5.0\Section4 - Making Decisions.dll
+E:\Programmation\CS\Section4 - Making Decisions\obj\Debug\net5.0\ref\Section4 - Making Decisions.dll
+E:\Programmation\CS\Section4 - Making Decisions\obj\Debug\net5.0\Section4 - Making Decisions.pdb
+E:\Programmation\CS\Section4 - Making Decisions\obj\Debug\net5.0\Section4 - Making Decisions.genruntimeconfig.cache

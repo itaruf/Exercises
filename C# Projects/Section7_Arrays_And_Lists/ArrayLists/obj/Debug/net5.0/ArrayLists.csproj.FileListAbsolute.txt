@@ -1,0 +1,16 @@
+E:\Programmation\CS\Section7 - Arrays & Lists\ArrayLists\bin\Debug\net5.0\ArrayLists.exe
+E:\Programmation\CS\Section7 - Arrays & Lists\ArrayLists\bin\Debug\net5.0\ArrayLists.deps.json
+E:\Programmation\CS\Section7 - Arrays & Lists\ArrayLists\bin\Debug\net5.0\ArrayLists.runtimeconfig.json
+E:\Programmation\CS\Section7 - Arrays & Lists\ArrayLists\bin\Debug\net5.0\ArrayLists.runtimeconfig.dev.json
+E:\Programmation\CS\Section7 - Arrays & Lists\ArrayLists\bin\Debug\net5.0\ArrayLists.dll
+E:\Programmation\CS\Section7 - Arrays & Lists\ArrayLists\bin\Debug\net5.0\ref\ArrayLists.dll
+E:\Programmation\CS\Section7 - Arrays & Lists\ArrayLists\bin\Debug\net5.0\ArrayLists.pdb
+E:\Programmation\CS\Section7 - Arrays & Lists\ArrayLists\obj\Debug\net5.0\ArrayLists.csproj.AssemblyReference.cache
+E:\Programmation\CS\Section7 - Arrays & Lists\ArrayLists\obj\Debug\net5.0\ArrayLists.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programmation\CS\Section7 - Arrays & Lists\ArrayLists\obj\Debug\net5.0\ArrayLists.AssemblyInfoInputs.cache
+E:\Programmation\CS\Section7 - Arrays & Lists\ArrayLists\obj\Debug\net5.0\ArrayLists.AssemblyInfo.cs
+E:\Programmation\CS\Section7 - Arrays & Lists\ArrayLists\obj\Debug\net5.0\ArrayLists.csproj.CoreCompileInputs.cache
+E:\Programmation\CS\Section7 - Arrays & Lists\ArrayLists\obj\Debug\net5.0\ArrayLists.dll
+E:\Programmation\CS\Section7 - Arrays & Lists\ArrayLists\obj\Debug\net5.0\ref\ArrayLists.dll
+E:\Programmation\CS\Section7 - Arrays & Lists\ArrayLists\obj\Debug\net5.0\ArrayLists.pdb
+E:\Programmation\CS\Section7 - Arrays & Lists\ArrayLists\obj\Debug\net5.0\ArrayLists.genruntimeconfig.cache

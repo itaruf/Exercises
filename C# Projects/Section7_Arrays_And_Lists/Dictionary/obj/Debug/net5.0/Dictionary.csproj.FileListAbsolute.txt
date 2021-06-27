@@ -1,0 +1,16 @@
+E:\Programmation\CS\Section7 - Arrays & Lists\Dictionary\bin\Debug\net5.0\Dictionary.exe
+E:\Programmation\CS\Section7 - Arrays & Lists\Dictionary\bin\Debug\net5.0\Dictionary.deps.json
+E:\Programmation\CS\Section7 - Arrays & Lists\Dictionary\bin\Debug\net5.0\Dictionary.runtimeconfig.json
+E:\Programmation\CS\Section7 - Arrays & Lists\Dictionary\bin\Debug\net5.0\Dictionary.runtimeconfig.dev.json
+E:\Programmation\CS\Section7 - Arrays & Lists\Dictionary\bin\Debug\net5.0\Dictionary.dll
+E:\Programmation\CS\Section7 - Arrays & Lists\Dictionary\bin\Debug\net5.0\ref\Dictionary.dll
+E:\Programmation\CS\Section7 - Arrays & Lists\Dictionary\bin\Debug\net5.0\Dictionary.pdb
+E:\Programmation\CS\Section7 - Arrays & Lists\Dictionary\obj\Debug\net5.0\Dictionary.csproj.AssemblyReference.cache
+E:\Programmation\CS\Section7 - Arrays & Lists\Dictionary\obj\Debug\net5.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programmation\CS\Section7 - Arrays & Lists\Dictionary\obj\Debug\net5.0\Dictionary.AssemblyInfoInputs.cache
+E:\Programmation\CS\Section7 - Arrays & Lists\Dictionary\obj\Debug\net5.0\Dictionary.AssemblyInfo.cs
+E:\Programmation\CS\Section7 - Arrays & Lists\Dictionary\obj\Debug\net5.0\Dictionary.csproj.CoreCompileInputs.cache
+E:\Programmation\CS\Section7 - Arrays & Lists\Dictionary\obj\Debug\net5.0\Dictionary.dll
+E:\Programmation\CS\Section7 - Arrays & Lists\Dictionary\obj\Debug\net5.0\ref\Dictionary.dll
+E:\Programmation\CS\Section7 - Arrays & Lists\Dictionary\obj\Debug\net5.0\Dictionary.pdb
+E:\Programmation\CS\Section7 - Arrays & Lists\Dictionary\obj\Debug\net5.0\Dictionary.genruntimeconfig.cache

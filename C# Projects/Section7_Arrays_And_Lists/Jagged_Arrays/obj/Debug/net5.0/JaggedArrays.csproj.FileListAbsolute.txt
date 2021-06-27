@@ -1,0 +1,16 @@
+E:\Programmation\CS\Section7 - Arrays & Lists\JaggedArrays\bin\Debug\net5.0\JaggedArrays.exe
+E:\Programmation\CS\Section7 - Arrays & Lists\JaggedArrays\bin\Debug\net5.0\JaggedArrays.deps.json
+E:\Programmation\CS\Section7 - Arrays & Lists\JaggedArrays\bin\Debug\net5.0\JaggedArrays.runtimeconfig.json
+E:\Programmation\CS\Section7 - Arrays & Lists\JaggedArrays\bin\Debug\net5.0\JaggedArrays.runtimeconfig.dev.json
+E:\Programmation\CS\Section7 - Arrays & Lists\JaggedArrays\bin\Debug\net5.0\JaggedArrays.dll
+E:\Programmation\CS\Section7 - Arrays & Lists\JaggedArrays\bin\Debug\net5.0\ref\JaggedArrays.dll
+E:\Programmation\CS\Section7 - Arrays & Lists\JaggedArrays\bin\Debug\net5.0\JaggedArrays.pdb
+E:\Programmation\CS\Section7 - Arrays & Lists\JaggedArrays\obj\Debug\net5.0\JaggedArrays.csproj.AssemblyReference.cache
+E:\Programmation\CS\Section7 - Arrays & Lists\JaggedArrays\obj\Debug\net5.0\JaggedArrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programmation\CS\Section7 - Arrays & Lists\JaggedArrays\obj\Debug\net5.0\JaggedArrays.AssemblyInfoInputs.cache
+E:\Programmation\CS\Section7 - Arrays & Lists\JaggedArrays\obj\Debug\net5.0\JaggedArrays.AssemblyInfo.cs
+E:\Programmation\CS\Section7 - Arrays & Lists\JaggedArrays\obj\Debug\net5.0\JaggedArrays.csproj.CoreCompileInputs.cache
+E:\Programmation\CS\Section7 - Arrays & Lists\JaggedArrays\obj\Debug\net5.0\JaggedArrays.dll
+E:\Programmation\CS\Section7 - Arrays & Lists\JaggedArrays\obj\Debug\net5.0\ref\JaggedArrays.dll
+E:\Programmation\CS\Section7 - Arrays & Lists\JaggedArrays\obj\Debug\net5.0\JaggedArrays.pdb
+E:\Programmation\CS\Section7 - Arrays & Lists\JaggedArrays\obj\Debug\net5.0\JaggedArrays.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\Programmation\CS\Section4 - Making Decisions\Challenge - If Statements 2\bin\Debug\net5.0\Challenge - If Statements 2.exe
+E:\Programmation\CS\Section4 - Making Decisions\Challenge - If Statements 2\bin\Debug\net5.0\Challenge - If Statements 2.deps.json
+E:\Programmation\CS\Section4 - Making Decisions\Challenge - If Statements 2\bin\Debug\net5.0\Challenge - If Statements 2.runtimeconfig.json
+E:\Programmation\CS\Section4 - Making Decisions\Challenge - If Statements 2\bin\Debug\net5.0\Challenge - If Statements 2.runtimeconfig.dev.json
+E:\Programmation\CS\Section4 - Making Decisions\Challenge - If Statements 2\bin\Debug\net5.0\Challenge - If Statements 2.dll
+E:\Programmation\CS\Section4 - Making Decisions\Challenge - If Statements 2\bin\Debug\net5.0\ref\Challenge - If Statements 2.dll
+E:\Programmation\CS\Section4 - Making Decisions\Challenge - If Statements 2\bin\Debug\net5.0\Challenge - If Statements 2.pdb
+E:\Programmation\CS\Section4 - Making Decisions\Challenge - If Statements 2\obj\Debug\net5.0\Challenge - If Statements 2.csproj.AssemblyReference.cache
+E:\Programmation\CS\Section4 - Making Decisions\Challenge - If Statements 2\obj\Debug\net5.0\Challenge - If Statements 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programmation\CS\Section4 - Making Decisions\Challenge - If Statements 2\obj\Debug\net5.0\Challenge - If Statements 2.AssemblyInfoInputs.cache
+E:\Programmation\CS\Section4 - Making Decisions\Challenge - If Statements 2\obj\Debug\net5.0\Challenge - If Statements 2.AssemblyInfo.cs
+E:\Programmation\CS\Section4 - Making Decisions\Challenge - If Statements 2\obj\Debug\net5.0\Challenge - If Statements 2.csproj.CoreCompileInputs.cache
+E:\Programmation\CS\Section4 - Making Decisions\Challenge - If Statements 2\obj\Debug\net5.0\Challenge - If Statements 2.dll
+E:\Programmation\CS\Section4 - Making Decisions\Challenge - If Statements 2\obj\Debug\net5.0\ref\Challenge - If Statements 2.dll
+E:\Programmation\CS\Section4 - Making Decisions\Challenge - If Statements 2\obj\Debug\net5.0\Challenge - If Statements 2.pdb
+E:\Programmation\CS\Section4 - Making Decisions\Challenge - If Statements 2\obj\Debug\net5.0\Challenge - If Statements 2.genruntimeconfig.cache

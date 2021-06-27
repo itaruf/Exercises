@@ -1,0 +1,16 @@
+E:\Programmation\CS\Section9 - Inheritance\Simple Inheritance\bin\Debug\net5.0\Simple Inheritance.exe
+E:\Programmation\CS\Section9 - Inheritance\Simple Inheritance\bin\Debug\net5.0\Simple Inheritance.deps.json
+E:\Programmation\CS\Section9 - Inheritance\Simple Inheritance\bin\Debug\net5.0\Simple Inheritance.runtimeconfig.json
+E:\Programmation\CS\Section9 - Inheritance\Simple Inheritance\bin\Debug\net5.0\Simple Inheritance.runtimeconfig.dev.json
+E:\Programmation\CS\Section9 - Inheritance\Simple Inheritance\bin\Debug\net5.0\Simple Inheritance.dll
+E:\Programmation\CS\Section9 - Inheritance\Simple Inheritance\bin\Debug\net5.0\ref\Simple Inheritance.dll
+E:\Programmation\CS\Section9 - Inheritance\Simple Inheritance\bin\Debug\net5.0\Simple Inheritance.pdb
+E:\Programmation\CS\Section9 - Inheritance\Simple Inheritance\obj\Debug\net5.0\Simple Inheritance.csproj.AssemblyReference.cache
+E:\Programmation\CS\Section9 - Inheritance\Simple Inheritance\obj\Debug\net5.0\Simple Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programmation\CS\Section9 - Inheritance\Simple Inheritance\obj\Debug\net5.0\Simple Inheritance.AssemblyInfoInputs.cache
+E:\Programmation\CS\Section9 - Inheritance\Simple Inheritance\obj\Debug\net5.0\Simple Inheritance.AssemblyInfo.cs
+E:\Programmation\CS\Section9 - Inheritance\Simple Inheritance\obj\Debug\net5.0\Simple Inheritance.csproj.CoreCompileInputs.cache
+E:\Programmation\CS\Section9 - Inheritance\Simple Inheritance\obj\Debug\net5.0\Simple Inheritance.dll
+E:\Programmation\CS\Section9 - Inheritance\Simple Inheritance\obj\Debug\net5.0\ref\Simple Inheritance.dll
+E:\Programmation\CS\Section9 - Inheritance\Simple Inheritance\obj\Debug\net5.0\Simple Inheritance.pdb
+E:\Programmation\CS\Section9 - Inheritance\Simple Inheritance\obj\Debug\net5.0\Simple Inheritance.genruntimeconfig.cache

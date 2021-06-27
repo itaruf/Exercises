@@ -1,0 +1,16 @@
+E:\Programmation\CS\Section7 - Arrays & Lists\Challenge - TicTacToe\bin\Debug\net5.0\Challenge - TicTacToe.exe
+E:\Programmation\CS\Section7 - Arrays & Lists\Challenge - TicTacToe\bin\Debug\net5.0\Challenge - TicTacToe.deps.json
+E:\Programmation\CS\Section7 - Arrays & Lists\Challenge - TicTacToe\bin\Debug\net5.0\Challenge - TicTacToe.runtimeconfig.json
+E:\Programmation\CS\Section7 - Arrays & Lists\Challenge - TicTacToe\bin\Debug\net5.0\Challenge - TicTacToe.runtimeconfig.dev.json
+E:\Programmation\CS\Section7 - Arrays & Lists\Challenge - TicTacToe\bin\Debug\net5.0\Challenge - TicTacToe.dll
+E:\Programmation\CS\Section7 - Arrays & Lists\Challenge - TicTacToe\bin\Debug\net5.0\ref\Challenge - TicTacToe.dll
+E:\Programmation\CS\Section7 - Arrays & Lists\Challenge - TicTacToe\bin\Debug\net5.0\Challenge - TicTacToe.pdb
+E:\Programmation\CS\Section7 - Arrays & Lists\Challenge - TicTacToe\obj\Debug\net5.0\Challenge - TicTacToe.csproj.AssemblyReference.cache
+E:\Programmation\CS\Section7 - Arrays & Lists\Challenge - TicTacToe\obj\Debug\net5.0\Challenge - TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programmation\CS\Section7 - Arrays & Lists\Challenge - TicTacToe\obj\Debug\net5.0\Challenge - TicTacToe.AssemblyInfoInputs.cache
+E:\Programmation\CS\Section7 - Arrays & Lists\Challenge - TicTacToe\obj\Debug\net5.0\Challenge - TicTacToe.AssemblyInfo.cs
+E:\Programmation\CS\Section7 - Arrays & Lists\Challenge - TicTacToe\obj\Debug\net5.0\Challenge - TicTacToe.csproj.CoreCompileInputs.cache
+E:\Programmation\CS\Section7 - Arrays & Lists\Challenge - TicTacToe\obj\Debug\net5.0\Challenge - TicTacToe.dll
+E:\Programmation\CS\Section7 - Arrays & Lists\Challenge - TicTacToe\obj\Debug\net5.0\ref\Challenge - TicTacToe.dll
+E:\Programmation\CS\Section7 - Arrays & Lists\Challenge - TicTacToe\obj\Debug\net5.0\Challenge - TicTacToe.pdb
+E:\Programmation\CS\Section7 - Arrays & Lists\Challenge - TicTacToe\obj\Debug\net5.0\Challenge - TicTacToe.genruntimeconfig.cache

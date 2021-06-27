@@ -1,0 +1,16 @@
+E:\Programmation\CS\Section5 - Loops\bin\Debug\net5.0\Section5 - Loops.exe
+E:\Programmation\CS\Section5 - Loops\bin\Debug\net5.0\Section5 - Loops.deps.json
+E:\Programmation\CS\Section5 - Loops\bin\Debug\net5.0\Section5 - Loops.runtimeconfig.json
+E:\Programmation\CS\Section5 - Loops\bin\Debug\net5.0\Section5 - Loops.runtimeconfig.dev.json
+E:\Programmation\CS\Section5 - Loops\bin\Debug\net5.0\Section5 - Loops.dll
+E:\Programmation\CS\Section5 - Loops\bin\Debug\net5.0\ref\Section5 - Loops.dll
+E:\Programmation\CS\Section5 - Loops\bin\Debug\net5.0\Section5 - Loops.pdb
+E:\Programmation\CS\Section5 - Loops\obj\Debug\net5.0\Section5 - Loops.csproj.AssemblyReference.cache
+E:\Programmation\CS\Section5 - Loops\obj\Debug\net5.0\Section5 - Loops.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programmation\CS\Section5 - Loops\obj\Debug\net5.0\Section5 - Loops.AssemblyInfoInputs.cache
+E:\Programmation\CS\Section5 - Loops\obj\Debug\net5.0\Section5 - Loops.AssemblyInfo.cs
+E:\Programmation\CS\Section5 - Loops\obj\Debug\net5.0\Section5 - Loops.csproj.CoreCompileInputs.cache
+E:\Programmation\CS\Section5 - Loops\obj\Debug\net5.0\Section5 - Loops.dll
+E:\Programmation\CS\Section5 - Loops\obj\Debug\net5.0\ref\Section5 - Loops.dll
+E:\Programmation\CS\Section5 - Loops\obj\Debug\net5.0\Section5 - Loops.pdb
+E:\Programmation\CS\Section5 - Loops\obj\Debug\net5.0\Section5 - Loops.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\Programmation\CS\Section7 - Arrays & Lists\Challenge - Loops & Switch\bin\Debug\net5.0\Challenge - Loops & Switch.exe
+E:\Programmation\CS\Section7 - Arrays & Lists\Challenge - Loops & Switch\bin\Debug\net5.0\Challenge - Loops & Switch.deps.json
+E:\Programmation\CS\Section7 - Arrays & Lists\Challenge - Loops & Switch\bin\Debug\net5.0\Challenge - Loops & Switch.runtimeconfig.json
+E:\Programmation\CS\Section7 - Arrays & Lists\Challenge - Loops & Switch\bin\Debug\net5.0\Challenge - Loops & Switch.runtimeconfig.dev.json
+E:\Programmation\CS\Section7 - Arrays & Lists\Challenge - Loops & Switch\bin\Debug\net5.0\Challenge - Loops & Switch.dll
+E:\Programmation\CS\Section7 - Arrays & Lists\Challenge - Loops & Switch\bin\Debug\net5.0\ref\Challenge - Loops & Switch.dll
+E:\Programmation\CS\Section7 - Arrays & Lists\Challenge - Loops & Switch\bin\Debug\net5.0\Challenge - Loops & Switch.pdb
+E:\Programmation\CS\Section7 - Arrays & Lists\Challenge - Loops & Switch\obj\Debug\net5.0\Challenge - Loops & Switch.csproj.AssemblyReference.cache
+E:\Programmation\CS\Section7 - Arrays & Lists\Challenge - Loops & Switch\obj\Debug\net5.0\Challenge - Loops & Switch.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programmation\CS\Section7 - Arrays & Lists\Challenge - Loops & Switch\obj\Debug\net5.0\Challenge - Loops & Switch.AssemblyInfoInputs.cache
+E:\Programmation\CS\Section7 - Arrays & Lists\Challenge - Loops & Switch\obj\Debug\net5.0\Challenge - Loops & Switch.AssemblyInfo.cs
+E:\Programmation\CS\Section7 - Arrays & Lists\Challenge - Loops & Switch\obj\Debug\net5.0\Challenge - Loops & Switch.csproj.CoreCompileInputs.cache
+E:\Programmation\CS\Section7 - Arrays & Lists\Challenge - Loops & Switch\obj\Debug\net5.0\Challenge - Loops & Switch.dll
+E:\Programmation\CS\Section7 - Arrays & Lists\Challenge - Loops & Switch\obj\Debug\net5.0\ref\Challenge - Loops & Switch.dll
+E:\Programmation\CS\Section7 - Arrays & Lists\Challenge - Loops & Switch\obj\Debug\net5.0\Challenge - Loops & Switch.pdb
+E:\Programmation\CS\Section7 - Arrays & Lists\Challenge - Loops & Switch\obj\Debug\net5.0\Challenge - Loops & Switch.genruntimeconfig.cache

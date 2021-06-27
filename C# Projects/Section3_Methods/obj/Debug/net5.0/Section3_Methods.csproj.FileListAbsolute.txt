@@ -1,0 +1,16 @@
+E:\Programmation\CS\Section3_Methods\bin\Debug\net5.0\Section3_Methods.exe
+E:\Programmation\CS\Section3_Methods\bin\Debug\net5.0\Section3_Methods.deps.json
+E:\Programmation\CS\Section3_Methods\bin\Debug\net5.0\Section3_Methods.runtimeconfig.json
+E:\Programmation\CS\Section3_Methods\bin\Debug\net5.0\Section3_Methods.runtimeconfig.dev.json
+E:\Programmation\CS\Section3_Methods\bin\Debug\net5.0\Section3_Methods.dll
+E:\Programmation\CS\Section3_Methods\bin\Debug\net5.0\ref\Section3_Methods.dll
+E:\Programmation\CS\Section3_Methods\bin\Debug\net5.0\Section3_Methods.pdb
+E:\Programmation\CS\Section3_Methods\obj\Debug\net5.0\Section3_Methods.csproj.AssemblyReference.cache
+E:\Programmation\CS\Section3_Methods\obj\Debug\net5.0\Section3_Methods.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programmation\CS\Section3_Methods\obj\Debug\net5.0\Section3_Methods.AssemblyInfoInputs.cache
+E:\Programmation\CS\Section3_Methods\obj\Debug\net5.0\Section3_Methods.AssemblyInfo.cs
+E:\Programmation\CS\Section3_Methods\obj\Debug\net5.0\Section3_Methods.csproj.CoreCompileInputs.cache
+E:\Programmation\CS\Section3_Methods\obj\Debug\net5.0\Section3_Methods.dll
+E:\Programmation\CS\Section3_Methods\obj\Debug\net5.0\ref\Section3_Methods.dll
+E:\Programmation\CS\Section3_Methods\obj\Debug\net5.0\Section3_Methods.pdb
+E:\Programmation\CS\Section3_Methods\obj\Debug\net5.0\Section3_Methods.genruntimeconfig.cache

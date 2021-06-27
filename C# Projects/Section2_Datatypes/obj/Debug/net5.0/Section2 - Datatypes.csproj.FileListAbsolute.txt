@@ -1,0 +1,32 @@
+E:\Programmation\CS\Section2 - Datatypes\bin\Debug\net5.0\Section2 - Datatypes.exe
+E:\Programmation\CS\Section2 - Datatypes\bin\Debug\net5.0\Section2 - Datatypes.deps.json
+E:\Programmation\CS\Section2 - Datatypes\bin\Debug\net5.0\Section2 - Datatypes.runtimeconfig.json
+E:\Programmation\CS\Section2 - Datatypes\bin\Debug\net5.0\Section2 - Datatypes.runtimeconfig.dev.json
+E:\Programmation\CS\Section2 - Datatypes\bin\Debug\net5.0\Section2 - Datatypes.dll
+E:\Programmation\CS\Section2 - Datatypes\bin\Debug\net5.0\ref\Section2 - Datatypes.dll
+E:\Programmation\CS\Section2 - Datatypes\bin\Debug\net5.0\Section2 - Datatypes.pdb
+E:\Programmation\CS\Section2 - Datatypes\obj\Debug\net5.0\Section2 - Datatypes.csproj.AssemblyReference.cache
+E:\Programmation\CS\Section2 - Datatypes\obj\Debug\net5.0\Section2 - Datatypes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programmation\CS\Section2 - Datatypes\obj\Debug\net5.0\Section2 - Datatypes.AssemblyInfoInputs.cache
+E:\Programmation\CS\Section2 - Datatypes\obj\Debug\net5.0\Section2 - Datatypes.AssemblyInfo.cs
+E:\Programmation\CS\Section2 - Datatypes\obj\Debug\net5.0\Section2 - Datatypes.csproj.CoreCompileInputs.cache
+E:\Programmation\CS\Section2 - Datatypes\obj\Debug\net5.0\Section2 - Datatypes.dll
+E:\Programmation\CS\Section2 - Datatypes\obj\Debug\net5.0\ref\Section2 - Datatypes.dll
+E:\Programmation\CS\Section2 - Datatypes\obj\Debug\net5.0\Section2 - Datatypes.pdb
+E:\Programmation\CS\Section2 - Datatypes\obj\Debug\net5.0\Section2 - Datatypes.genruntimeconfig.cache
+E:\Programmation\CS\Section2_Datatypes\bin\Debug\net5.0\Section2 - Datatypes.exe
+E:\Programmation\CS\Section2_Datatypes\bin\Debug\net5.0\Section2 - Datatypes.deps.json
+E:\Programmation\CS\Section2_Datatypes\bin\Debug\net5.0\Section2 - Datatypes.runtimeconfig.json
+E:\Programmation\CS\Section2_Datatypes\bin\Debug\net5.0\Section2 - Datatypes.runtimeconfig.dev.json
+E:\Programmation\CS\Section2_Datatypes\bin\Debug\net5.0\Section2 - Datatypes.dll
+E:\Programmation\CS\Section2_Datatypes\bin\Debug\net5.0\ref\Section2 - Datatypes.dll
+E:\Programmation\CS\Section2_Datatypes\bin\Debug\net5.0\Section2 - Datatypes.pdb
+E:\Programmation\CS\Section2_Datatypes\obj\Debug\net5.0\Section2 - Datatypes.csproj.AssemblyReference.cache
+E:\Programmation\CS\Section2_Datatypes\obj\Debug\net5.0\Section2 - Datatypes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programmation\CS\Section2_Datatypes\obj\Debug\net5.0\Section2 - Datatypes.AssemblyInfoInputs.cache
+E:\Programmation\CS\Section2_Datatypes\obj\Debug\net5.0\Section2 - Datatypes.AssemblyInfo.cs
+E:\Programmation\CS\Section2_Datatypes\obj\Debug\net5.0\Section2 - Datatypes.csproj.CoreCompileInputs.cache
+E:\Programmation\CS\Section2_Datatypes\obj\Debug\net5.0\Section2 - Datatypes.dll
+E:\Programmation\CS\Section2_Datatypes\obj\Debug\net5.0\ref\Section2 - Datatypes.dll
+E:\Programmation\CS\Section2_Datatypes\obj\Debug\net5.0\Section2 - Datatypes.pdb
+E:\Programmation\CS\Section2_Datatypes\obj\Debug\net5.0\Section2 - Datatypes.genruntimeconfig.cache

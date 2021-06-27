@@ -1,0 +1,16 @@
+E:\Programmation\CS\Section9 - Inheritance\Inheritance Challenge 2\bin\Debug\net5.0\Inheritance Challenge 2.exe
+E:\Programmation\CS\Section9 - Inheritance\Inheritance Challenge 2\bin\Debug\net5.0\Inheritance Challenge 2.deps.json
+E:\Programmation\CS\Section9 - Inheritance\Inheritance Challenge 2\bin\Debug\net5.0\Inheritance Challenge 2.runtimeconfig.json
+E:\Programmation\CS\Section9 - Inheritance\Inheritance Challenge 2\bin\Debug\net5.0\Inheritance Challenge 2.runtimeconfig.dev.json
+E:\Programmation\CS\Section9 - Inheritance\Inheritance Challenge 2\bin\Debug\net5.0\Inheritance Challenge 2.dll
+E:\Programmation\CS\Section9 - Inheritance\Inheritance Challenge 2\bin\Debug\net5.0\ref\Inheritance Challenge 2.dll
+E:\Programmation\CS\Section9 - Inheritance\Inheritance Challenge 2\bin\Debug\net5.0\Inheritance Challenge 2.pdb
+E:\Programmation\CS\Section9 - Inheritance\Inheritance Challenge 2\obj\Debug\net5.0\Inheritance Challenge 2.csproj.AssemblyReference.cache
+E:\Programmation\CS\Section9 - Inheritance\Inheritance Challenge 2\obj\Debug\net5.0\Inheritance Challenge 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programmation\CS\Section9 - Inheritance\Inheritance Challenge 2\obj\Debug\net5.0\Inheritance Challenge 2.AssemblyInfoInputs.cache
+E:\Programmation\CS\Section9 - Inheritance\Inheritance Challenge 2\obj\Debug\net5.0\Inheritance Challenge 2.AssemblyInfo.cs
+E:\Programmation\CS\Section9 - Inheritance\Inheritance Challenge 2\obj\Debug\net5.0\Inheritance Challenge 2.csproj.CoreCompileInputs.cache
+E:\Programmation\CS\Section9 - Inheritance\Inheritance Challenge 2\obj\Debug\net5.0\Inheritance Challenge 2.dll
+E:\Programmation\CS\Section9 - Inheritance\Inheritance Challenge 2\obj\Debug\net5.0\ref\Inheritance Challenge 2.dll
+E:\Programmation\CS\Section9 - Inheritance\Inheritance Challenge 2\obj\Debug\net5.0\Inheritance Challenge 2.pdb
+E:\Programmation\CS\Section9 - Inheritance\Inheritance Challenge 2\obj\Debug\net5.0\Inheritance Challenge 2.genruntimeconfig.cache

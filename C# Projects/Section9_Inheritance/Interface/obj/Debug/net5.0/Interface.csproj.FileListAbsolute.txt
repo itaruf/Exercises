@@ -1,0 +1,16 @@
+E:\Programmation\CS\Section9 - Inheritance\Interface\bin\Debug\net5.0\Interface.exe
+E:\Programmation\CS\Section9 - Inheritance\Interface\bin\Debug\net5.0\Interface.deps.json
+E:\Programmation\CS\Section9 - Inheritance\Interface\bin\Debug\net5.0\Interface.runtimeconfig.json
+E:\Programmation\CS\Section9 - Inheritance\Interface\bin\Debug\net5.0\Interface.runtimeconfig.dev.json
+E:\Programmation\CS\Section9 - Inheritance\Interface\bin\Debug\net5.0\Interface.dll
+E:\Programmation\CS\Section9 - Inheritance\Interface\bin\Debug\net5.0\ref\Interface.dll
+E:\Programmation\CS\Section9 - Inheritance\Interface\bin\Debug\net5.0\Interface.pdb
+E:\Programmation\CS\Section9 - Inheritance\Interface\obj\Debug\net5.0\Interface.csproj.AssemblyReference.cache
+E:\Programmation\CS\Section9 - Inheritance\Interface\obj\Debug\net5.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programmation\CS\Section9 - Inheritance\Interface\obj\Debug\net5.0\Interface.AssemblyInfoInputs.cache
+E:\Programmation\CS\Section9 - Inheritance\Interface\obj\Debug\net5.0\Interface.AssemblyInfo.cs
+E:\Programmation\CS\Section9 - Inheritance\Interface\obj\Debug\net5.0\Interface.csproj.CoreCompileInputs.cache
+E:\Programmation\CS\Section9 - Inheritance\Interface\obj\Debug\net5.0\Interface.dll
+E:\Programmation\CS\Section9 - Inheritance\Interface\obj\Debug\net5.0\ref\Interface.dll
+E:\Programmation\CS\Section9 - Inheritance\Interface\obj\Debug\net5.0\Interface.pdb
+E:\Programmation\CS\Section9 - Inheritance\Interface\obj\Debug\net5.0\Interface.genruntimeconfig.cache

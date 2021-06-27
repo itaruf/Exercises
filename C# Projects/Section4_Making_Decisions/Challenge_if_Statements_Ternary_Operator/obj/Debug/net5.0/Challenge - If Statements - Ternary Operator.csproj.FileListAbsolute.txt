@@ -1,0 +1,16 @@
+E:\Programmation\CS\Section4 - Making Decisions\Challenge - If Statements - Ternary Operator\bin\Debug\net5.0\Challenge - If Statements - Ternary Operator.exe
+E:\Programmation\CS\Section4 - Making Decisions\Challenge - If Statements - Ternary Operator\bin\Debug\net5.0\Challenge - If Statements - Ternary Operator.deps.json
+E:\Programmation\CS\Section4 - Making Decisions\Challenge - If Statements - Ternary Operator\bin\Debug\net5.0\Challenge - If Statements - Ternary Operator.runtimeconfig.json
+E:\Programmation\CS\Section4 - Making Decisions\Challenge - If Statements - Ternary Operator\bin\Debug\net5.0\Challenge - If Statements - Ternary Operator.runtimeconfig.dev.json
+E:\Programmation\CS\Section4 - Making Decisions\Challenge - If Statements - Ternary Operator\bin\Debug\net5.0\Challenge - If Statements - Ternary Operator.dll
+E:\Programmation\CS\Section4 - Making Decisions\Challenge - If Statements - Ternary Operator\bin\Debug\net5.0\ref\Challenge - If Statements - Ternary Operator.dll
+E:\Programmation\CS\Section4 - Making Decisions\Challenge - If Statements - Ternary Operator\bin\Debug\net5.0\Challenge - If Statements - Ternary Operator.pdb
+E:\Programmation\CS\Section4 - Making Decisions\Challenge - If Statements - Ternary Operator\obj\Debug\net5.0\Challenge - If Statements - Ternary Operator.csproj.AssemblyReference.cache
+E:\Programmation\CS\Section4 - Making Decisions\Challenge - If Statements - Ternary Operator\obj\Debug\net5.0\Challenge - If Statements - Ternary Operator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programmation\CS\Section4 - Making Decisions\Challenge - If Statements - Ternary Operator\obj\Debug\net5.0\Challenge - If Statements - Ternary Operator.AssemblyInfoInputs.cache
+E:\Programmation\CS\Section4 - Making Decisions\Challenge - If Statements - Ternary Operator\obj\Debug\net5.0\Challenge - If Statements - Ternary Operator.AssemblyInfo.cs
+E:\Programmation\CS\Section4 - Making Decisions\Challenge - If Statements - Ternary Operator\obj\Debug\net5.0\Challenge - If Statements - Ternary Operator.csproj.CoreCompileInputs.cache
+E:\Programmation\CS\Section4 - Making Decisions\Challenge - If Statements - Ternary Operator\obj\Debug\net5.0\Challenge - If Statements - Ternary Operator.dll
+E:\Programmation\CS\Section4 - Making Decisions\Challenge - If Statements - Ternary Operator\obj\Debug\net5.0\ref\Challenge - If Statements - Ternary Operator.dll
+E:\Programmation\CS\Section4 - Making Decisions\Challenge - If Statements - Ternary Operator\obj\Debug\net5.0\Challenge - If Statements - Ternary Operator.pdb
+E:\Programmation\CS\Section4 - Making Decisions\Challenge - If Statements - Ternary Operator\obj\Debug\net5.0\Challenge - If Statements - Ternary Operator.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\Programmation\CS\Section7 - Arrays & Lists\Stacks\bin\Debug\net5.0\Stacks.exe
+E:\Programmation\CS\Section7 - Arrays & Lists\Stacks\bin\Debug\net5.0\Stacks.deps.json
+E:\Programmation\CS\Section7 - Arrays & Lists\Stacks\bin\Debug\net5.0\Stacks.runtimeconfig.json
+E:\Programmation\CS\Section7 - Arrays & Lists\Stacks\bin\Debug\net5.0\Stacks.runtimeconfig.dev.json
+E:\Programmation\CS\Section7 - Arrays & Lists\Stacks\bin\Debug\net5.0\Stacks.dll
+E:\Programmation\CS\Section7 - Arrays & Lists\Stacks\bin\Debug\net5.0\ref\Stacks.dll
+E:\Programmation\CS\Section7 - Arrays & Lists\Stacks\bin\Debug\net5.0\Stacks.pdb
+E:\Programmation\CS\Section7 - Arrays & Lists\Stacks\obj\Debug\net5.0\Stacks.csproj.AssemblyReference.cache
+E:\Programmation\CS\Section7 - Arrays & Lists\Stacks\obj\Debug\net5.0\Stacks.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programmation\CS\Section7 - Arrays & Lists\Stacks\obj\Debug\net5.0\Stacks.AssemblyInfoInputs.cache
+E:\Programmation\CS\Section7 - Arrays & Lists\Stacks\obj\Debug\net5.0\Stacks.AssemblyInfo.cs
+E:\Programmation\CS\Section7 - Arrays & Lists\Stacks\obj\Debug\net5.0\Stacks.csproj.CoreCompileInputs.cache
+E:\Programmation\CS\Section7 - Arrays & Lists\Stacks\obj\Debug\net5.0\Stacks.dll
+E:\Programmation\CS\Section7 - Arrays & Lists\Stacks\obj\Debug\net5.0\ref\Stacks.dll
+E:\Programmation\CS\Section7 - Arrays & Lists\Stacks\obj\Debug\net5.0\Stacks.pdb
+E:\Programmation\CS\Section7 - Arrays & Lists\Stacks\obj\Debug\net5.0\Stacks.genruntimeconfig.cache
