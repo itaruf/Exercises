@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 698530d63a2a1264f8cd614aa9197310, type: 3}
+  m_Name: A2. Eating Strawberry
+  m_EditorClassIdentifier: 
+  StoryText: 'Despite knowing that the strawberry cake was destinated to your brother,
+    you decide to eat it.
+
+
+    Looking at the clock, you realize that your sister
+    and your brother are soon at home.
+
+
+    Nothing around has been decorated to
+    fit the birthday theme. What should you do ?
+
+
+    1. Start decorating.
+
+    2.
+    Do nothing.'
+  NextStates:
+  - {fileID: 11400000, guid: 1af6febff7a4f9d40a156a45f60e251a, type: 2}
+  - {fileID: 11400000, guid: 1af6febff7a4f9d40a156a45f60e251a, type: 2}

@@ -1,0 +1,10 @@
+Welcome to the Abnormal Routine Game !
+
+It's a choose your own routine adventure game. Be careful what you wish for!
+
+At each act, you'll be asked to push a key on the keyboard to select the corresponding choice you want to make.
+For example: 1 or 2 or 3. At any point, you can press "Q" to quit the game. Nothing will be saved though.
+
+You'll play as on ordinary person, still leaving with their close family members.
+
+1. Let's play!

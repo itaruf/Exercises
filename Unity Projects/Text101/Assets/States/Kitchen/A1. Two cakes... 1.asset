@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 698530d63a2a1264f8cd614aa9197310, type: 3}
+  m_Name: A1. Two cakes... 1
+  m_EditorClassIdentifier: 
+  StoryText: "You feel like you are forgetting something very important today...
+    That's right, it's your brother's birthday !  \n\nYou also remember that your
+    parents, not here at the moment, left two cakes in the fridge: one is a strawberry
+    flavored one, the other is a chocolate one. You don't have any preference.\n\nYou
+    know that your brother loves strawberries... What should you do ?\n\n1. Eat the
+    strawberry cake anyway.\n2. Eat the chocolate cake.\n3. Eat'em both!"
+  NextStates:
+  - {fileID: 11400000, guid: 09c5235b48757d34a906eb9552c50824, type: 2}
+  - {fileID: 11400000, guid: c11b9eb7c5d342b4ab508f2f3b7feab1, type: 2}
+  - {fileID: 11400000, guid: e5033ddebb46a1146b1f319a9a36e026, type: 2}
