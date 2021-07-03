@@ -8,14 +8,12 @@ public class EnemyPathing : MonoBehaviour
     [SerializeField] public List<Transform> Destinations;
     public int DestinationsIndex = 0;
     public Vector3 TargetPosition;
-    // Start is called before the first frame update
     void Start()
     {
         Destinations = WConfig.GetWayPoints();
         this.transform.position = new Vector2(this.transform.position.x, this.transform.position.y);
     }
 
-    // Update is called once per frame
     void Update()
     {
         if (DestinationsIndex < Destinations.Count)

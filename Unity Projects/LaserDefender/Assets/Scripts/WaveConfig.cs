@@ -19,7 +19,7 @@ public class WaveConfig : ScriptableObject
         foreach(Transform WavePoint in PathPrefab.transform)
         {
             WaveDestinations.Add(WavePoint);
-            Debug.Log($"{WavePoint} added.");
+            //Debug.Log($"{WavePoint} added.");
         }
        
         return(WaveDestinations);

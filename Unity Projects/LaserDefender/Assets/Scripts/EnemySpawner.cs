@@ -8,8 +8,13 @@ public class EnemySpawner : MonoBehaviour
     [SerializeField] public List<WaveConfig> WConfigs;
     [SerializeField] public int StartingWave = 0;
     [SerializeField] bool looping = false;
+    public GameManager GM;
+    public static int NumberOfEnemies = 0;
+
     void Start()
     {
+        GM = FindObjectOfType<GameManager>();
+        new WaitForSecondsRealtime(5f);
         do
         {
             StartCoroutine(SpawnAllWaves());
@@ -30,15 +35,25 @@ public class EnemySpawner : MonoBehaviour
         {
             var NewEnemy = Instantiate(CurrentWave.GetEnemyPrefab, CurrentWave.GetWayPoints()[0].transform.position, Quaternion.identity);
             NewEnemy.SetActive(true);
-            //NewEnemy.AddComponent<EnemyPathing>();
-            //NewEnemy.AddComponent<CircleCollider2D>();
+            NumberOfEnemies++;
+            Debug.Log("Initial number of enemies: "+NumberOfEnemies);
+
             yield return new WaitForSeconds(CurrentWave.GetTimeBetweenSpawns1);
+
             NewEnemy.GetComponent<EnemyPathing>().SetWaveConfig(CurrentWave);
+        }
+    }
+
+    public void CheckWinCondition()
+    {
+        if (NumberOfEnemies <= 0)
+        {
+            GM.LoadNextScene();
         }
     }
 
     void Update()
     {
-        
+        CheckWinCondition();
     }
 }
