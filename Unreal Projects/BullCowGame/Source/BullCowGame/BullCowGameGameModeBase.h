@@ -13,5 +13,4 @@ UCLASS()
 class BULLCOWGAME_API ABullCowGameGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
-	
 };

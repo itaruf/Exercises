@@ -11,7 +11,7 @@ DECLARE_DYNAMIC_MULTICAST_DELEGATE_OneParam(FTextUpdateSignature, FString, Text)
 
 struct FKey;
 
-UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
+UCLASS(ClassGroup = (Custom), meta = (BlueprintSpawnableComponent))
 class BULLCOWGAME_API UTerminal : public UActorComponent
 {
 	GENERATED_BODY()
@@ -29,7 +29,7 @@ public:
 	UFUNCTION(BlueprintCallable)
 	void DeactivateTerminal() const;
 
-	void PrintLine(const FString& Line);
+	void PrintLine(const FString &Line);
 	void ClearScreen();
 
 protected:
@@ -38,14 +38,13 @@ protected:
 
 private:
 	void OnKeyDown(FKey Key);
-	TArray<FString> WrapLines(const TArray<FString>&  Lines) const;
-	void Truncate(TArray<FString>& Lines) const;
-	FString JoinWithNewline(const TArray<FString>& Lines) const;
+	TArray<FString> WrapLines(const TArray<FString> &Lines) const;
+	void Truncate(TArray<FString> &Lines) const;
+	FString JoinWithNewline(const TArray<FString> &Lines) const;
 	void AcceptInputLine();
 	void Backspace();
 	FString GetKeyString(FKey Key) const;
 	void UpdateText();
-
 
 	UPROPERTY(EditAnywhere)
 	int32 MaxLines = 10;

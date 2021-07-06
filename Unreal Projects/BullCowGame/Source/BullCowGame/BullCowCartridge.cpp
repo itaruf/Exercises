@@ -1062,7 +1062,7 @@ void UBullCowCartridge::InitGame()
     bGameOver = false;
 
     //Welcoming The Player
-    PrintLine(TEXT("Welcome to the BullCows Game !"));
+    PrintLine(TEXT("Welcome to the Bulls and Cows Game !"));
     PrintLine(TEXT("Guess the %d letters word !"), HiddenWord.Len());
     PrintLine(TEXT("Click and press TAB to write into the terminal..."));
     PrintLine(TEXT("Type in and press enter to validate your answer"));
