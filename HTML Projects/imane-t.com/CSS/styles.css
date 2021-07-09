@@ -38,6 +38,7 @@ h1 {
     text-align: -webkit-center;
     padding-bottom : 2em;
     padding-top : 2em;
+    color : white !important;
 }
 
 hr,
@@ -46,6 +47,11 @@ hr,
     width: 5%;
     text-align: center;
     animation: 0.5s linear 1s infinite alternate slidein;
+}
+
+.copyright {
+    font-size: 1.1em;
+    font-family: 'Orbitron', sans-serif;
 }
 
 .dropdown, .dropend, .dropstart, .dropup {
@@ -255,6 +261,15 @@ hr,
     overflow: hidden;
 }
 
+.pixelart-title-section {
+    font-weight: bold;
+    text-align: -webkit-center;
+    padding-bottom : 2em;
+    padding-top : 2em;
+    color : white !important;
+    font-size: 1rem;
+}
+
 #about hr {
     border-color: #301b3f;
 }
@@ -299,13 +314,13 @@ hr,
     margin-left: auto;
 }
 
-#carouselPA {
+#carouselPA, #carouselPA2, #carouselPA3 {
     margin: auto;
     padding-top: 5%;
     padding-bottom: 10%;
 }
 
-.carouselPA {
+.carouselPA, .carouselPA2, .carouselPA3 {
     width: 512px;
     height: 512px;
 }
@@ -316,7 +331,6 @@ hr,
     padding: 2% 4% 2% 0%;
     background: transparent;
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#14062f",endColorstr="#0c0c0c",GradientType=1);
-    
 }
 
 .about-descriptif {
@@ -392,6 +406,7 @@ h1 span {
 .gm-logo {
     width: 35px;
 }
+
 .sm-logo {
     width: 80px;
     height: 80px;
