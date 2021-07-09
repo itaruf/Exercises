@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Escape_GameEditor Editor Win64 Development (Escape_Game)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\admin\\Documents\\Unreal Projects\\Escape_Game\\.vscode\\compileCommands_Escape_Game.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\admin\\Documents\\Unreal Projects\\Escape_Game\\.vscode\\compileCommands_Default.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

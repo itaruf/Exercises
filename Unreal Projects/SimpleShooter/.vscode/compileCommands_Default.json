@@ -1,0 +1,127 @@
+[
+	{
+		"file": "C:\\\\Users\\\\admin\\\\Documents\\\\SimpleShooter\\\\Source\\\\SimpleShooter\\\\BTService_PlayerLocation.cpp",
+		"command": "cl.exe @\"C:\\Users\\admin\\Documents\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\admin\\\\Documents\\\\SimpleShooter\\\\Source\\\\SimpleShooter\\\\BTService_PlayerLocation.h",
+		"command": "cl.exe @\"C:\\Users\\admin\\Documents\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\admin\\\\Documents\\\\SimpleShooter\\\\Source\\\\SimpleShooter\\\\BTService_PlayerLocationIfSeen.cpp",
+		"command": "cl.exe @\"C:\\Users\\admin\\Documents\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\admin\\\\Documents\\\\SimpleShooter\\\\Source\\\\SimpleShooter\\\\BTService_PlayerLocationIfSeen.h",
+		"command": "cl.exe @\"C:\\Users\\admin\\Documents\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\admin\\\\Documents\\\\SimpleShooter\\\\Source\\\\SimpleShooter\\\\BTTask_ClearBlackboardValue.cpp",
+		"command": "cl.exe @\"C:\\Users\\admin\\Documents\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\admin\\\\Documents\\\\SimpleShooter\\\\Source\\\\SimpleShooter\\\\BTTask_ClearBlackboardValue.h",
+		"command": "cl.exe @\"C:\\Users\\admin\\Documents\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\admin\\\\Documents\\\\SimpleShooter\\\\Source\\\\SimpleShooter\\\\BTTask_Shoot.cpp",
+		"command": "cl.exe @\"C:\\Users\\admin\\Documents\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\admin\\\\Documents\\\\SimpleShooter\\\\Source\\\\SimpleShooter\\\\BTTask_Shoot.h",
+		"command": "cl.exe @\"C:\\Users\\admin\\Documents\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\admin\\\\Documents\\\\SimpleShooter\\\\Source\\\\SimpleShooter\\\\Gun.cpp",
+		"command": "cl.exe @\"C:\\Users\\admin\\Documents\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\admin\\\\Documents\\\\SimpleShooter\\\\Source\\\\SimpleShooter\\\\Gun.h",
+		"command": "cl.exe @\"C:\\Users\\admin\\Documents\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\admin\\\\Documents\\\\SimpleShooter\\\\Source\\\\SimpleShooter\\\\KillEmAllGameMode.cpp",
+		"command": "cl.exe @\"C:\\Users\\admin\\Documents\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\admin\\\\Documents\\\\SimpleShooter\\\\Source\\\\SimpleShooter\\\\KillEmAllGameMode.h",
+		"command": "cl.exe @\"C:\\Users\\admin\\Documents\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\admin\\\\Documents\\\\SimpleShooter\\\\Source\\\\SimpleShooter\\\\MyPawn.cpp",
+		"command": "cl.exe @\"C:\\Users\\admin\\Documents\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\admin\\\\Documents\\\\SimpleShooter\\\\Source\\\\SimpleShooter\\\\MyPawn.h",
+		"command": "cl.exe @\"C:\\Users\\admin\\Documents\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\admin\\\\Documents\\\\SimpleShooter\\\\Source\\\\SimpleShooter\\\\ShooterAIController.cpp",
+		"command": "cl.exe @\"C:\\Users\\admin\\Documents\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\admin\\\\Documents\\\\SimpleShooter\\\\Source\\\\SimpleShooter\\\\ShooterAIController.h",
+		"command": "cl.exe @\"C:\\Users\\admin\\Documents\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\admin\\\\Documents\\\\SimpleShooter\\\\Source\\\\SimpleShooter\\\\ShooterCharacter.cpp",
+		"command": "cl.exe @\"C:\\Users\\admin\\Documents\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\admin\\\\Documents\\\\SimpleShooter\\\\Source\\\\SimpleShooter\\\\ShooterCharacter.h",
+		"command": "cl.exe @\"C:\\Users\\admin\\Documents\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\admin\\\\Documents\\\\SimpleShooter\\\\Source\\\\SimpleShooter\\\\ShooterPlayerController.cpp",
+		"command": "cl.exe @\"C:\\Users\\admin\\Documents\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\admin\\\\Documents\\\\SimpleShooter\\\\Source\\\\SimpleShooter\\\\ShooterPlayerController.h",
+		"command": "cl.exe @\"C:\\Users\\admin\\Documents\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\admin\\\\Documents\\\\SimpleShooter\\\\Source\\\\SimpleShooter\\\\SimpleShooter.Build.cs",
+		"command": "cl.exe @\"C:\\Users\\admin\\Documents\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\admin\\\\Documents\\\\SimpleShooter\\\\Source\\\\SimpleShooter\\\\SimpleShooter.cpp",
+		"command": "cl.exe @\"C:\\Users\\admin\\Documents\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\admin\\\\Documents\\\\SimpleShooter\\\\Source\\\\SimpleShooter\\\\SimpleShooter.h",
+		"command": "cl.exe @\"C:\\Users\\admin\\Documents\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\admin\\\\Documents\\\\SimpleShooter\\\\Source\\\\SimpleShooter\\\\SimpleShooterGameModeBase.cpp",
+		"command": "cl.exe @\"C:\\Users\\admin\\Documents\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\admin\\\\Documents\\\\SimpleShooter\\\\Source\\\\SimpleShooter\\\\SimpleShooterGameModeBase.h",
+		"command": "cl.exe @\"C:\\Users\\admin\\Documents\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	}
+]
