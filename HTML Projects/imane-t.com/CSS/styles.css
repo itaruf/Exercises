@@ -506,13 +506,41 @@ h1 span {
     border-top-color: #00b5ff;
 }
 
-#bullscows {
-    
+/*SHORTCUT TO PROJECTS*/
+#bullscows { 
 }
 
 #buildingescape {
-
 }
+
+#tps {
+}
+
+#terribletweeters{
+}
+
+#pong{
+}
+
+#fruitninja{
+}
+
+#text101{
+}
+
+#numberwizard{
+}
+
+#blockbreaker{
+}
+
+#laserdefender{
+}
+
+#tilevania{
+}
+
+/**/
 
 .demo-left {
     border: 1px solid rgba(255,255,255,.1);
