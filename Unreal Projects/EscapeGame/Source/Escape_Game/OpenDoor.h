@@ -53,7 +53,7 @@ private:					 //variables membres
 	float DoorCloseSpeed = 2;
 
 	UPROPERTY(EditAnywhere);
-	float MassToOpenDoor = 50;
+	float MassToOpenDoor = 100;
 
 	UPROPERTY(EditAnywhere);
 	UAudioComponent *AudioComponent = nullptr;

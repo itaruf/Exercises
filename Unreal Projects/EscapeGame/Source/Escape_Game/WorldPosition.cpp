@@ -47,7 +47,7 @@ void UWorldPosition::BeginPlay()
 	UE_LOG(LogTemp, Display, TEXT("%s"), (**PtON)); 
 	*/
 
-	FString ObjectPosition = (GetOwner()->GetActorLocation()).ToString();		 // Get the location of an actor on scene
+	FString ObjectPosition = (GetOwner()->GetActorLocation()).ToString(); // Get the location of an actor on scene
 	//ObjectPosition = (GetOwner()->GetActorTransform().GetLocation()).ToString(); // Other manner
 	UE_LOG(LogTemp, Display, TEXT("%s, %s"), *ObjectName, *ObjectPosition);
 }

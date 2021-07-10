@@ -27,7 +27,7 @@ private:
 
 	UPROPERTY(EditAnywhere);
 	UPhysicsHandleComponent *PhysicsHandle = nullptr;
-	
+
 	UPROPERTY(EditAnywhere);
 	UInputComponent *InputComponent = nullptr;
 
