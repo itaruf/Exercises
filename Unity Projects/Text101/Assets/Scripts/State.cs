@@ -6,7 +6,7 @@ using UnityEngine;
 public class State : ScriptableObject
 {
     // Member attributes
-    [TextArea(20,20)] [SerializeField] string StoryText;
+    [TextArea(10,10)] [SerializeField] string StoryText;
     [SerializeField] State[] NextStates;
     // Member methods
     public string GetStateStory()

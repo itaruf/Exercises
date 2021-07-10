@@ -579,6 +579,14 @@ a:active {
     color: #00b5ff;
 }
 
+ol >  li {
+    font-size : 1.2em;
+}
+
+ul > li {
+    font-size : 1.2em;
+}
+
 li {
     display: list-item;
     text-align: -webkit-match-parent;
@@ -591,7 +599,7 @@ p {
     margin-block-end: 1em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
-    font-size: 1.1em;
+    font-size: 1.2em;
 }
 
 li > a {

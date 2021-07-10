@@ -203,8 +203,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -145}
-  m_SizeDelta: {x: 1700, y: 600}
+  m_AnchoredPosition: {x: 0, y: -55.958984}
+  m_SizeDelta: {x: 1700, y: 778.08}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &505563267
 MonoBehaviour:
@@ -228,10 +228,10 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: e3265ab4bf004d28a9537516768c1c75, type: 3}
-    m_FontSize: 40
+    m_FontSize: 25
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 4
+    m_MinSize: 2
     m_MaxSize: 50
     m_Alignment: 3
     m_AlignByGeometry: 0
@@ -239,12 +239,14 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Welcome to the Abnormal Routine Game !\r\n\r\nIt's a choose your own routine
-    adventure game. Be careful what you wish for!\r\n\r\nAt each act, you'll be asked
-    to push a key on the keyboard to select the corresponding choice you want to
-    make.\r For example: 1 or 2 or 3. At any point, you can press \"Q\" to quit the
-    game. Nothing will be saved though.\r\n\r\nYou'll play as on ordinary person,
-    still leaving with their close family members.\r\n\r\n1. Let's play!"
+  m_Text: "Bienvenue dans le \"Jeu du chat : \xC9dition familiale\" !\n\nIl s'agit
+    d'un jeu d'aventure \xE0 choix dont vous \xEAtes le personnage principal.\n\n\xC0
+    chaque acte, un sc\xE9nario vous sera pr\xE9sent\xE9 o\xF9 vous devrez r\xE9pondre
+    de la situation par l'un des choix propos\xE9s. R\xE9fl\xE9chissez bien avant
+    de passer \xE0 la suite !\n\nPar exemple, entrez 1 (num\xE9ro associ\xE9 aux
+    caract\xE8res sp\xE9ciaux) pour s\xE9lectionner le choix 1. Vous pouvez quitter
+    le jeu \xE0 tout moment en appuyant sur \"Q\". Rien ne sera sauvegard\xE9. \n\n1.
+    C'est parti !"
 --- !u!222 &505563268
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -468,8 +470,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 340}
-  m_SizeDelta: {x: 1920, y: 200}
+  m_AnchoredPosition: {x: 0, y: 418.7638}
+  m_SizeDelta: {x: 1920, y: 171.3587}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &521663411
 MonoBehaviour:
@@ -493,7 +495,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 2f1ccd9498ca98345949f1a60b46d458, type: 3}
-    m_FontSize: 200
+    m_FontSize: 180
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 1
@@ -504,7 +506,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Abnormal Routine
+  m_Text: 'Jeu du chat : Edition familiale'
 --- !u!222 &521663412
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -614,8 +616,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 355.25}
-  m_SizeDelta: {x: 1920, y: 100}
+  m_AnchoredPosition: {x: 0, y: 394.17}
+  m_SizeDelta: {x: 1920, y: 61.083}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1295369849
 MonoBehaviour:
@@ -787,8 +789,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -145}
-  m_SizeDelta: {x: 1920, y: 600}
+  m_AnchoredPosition: {x: 0, y: -55.958}
+  m_SizeDelta: {x: 1920, y: 778.08}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1364496547
 MonoBehaviour:

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 698530d63a2a1264f8cd614aa9197310, type: 3}
+  m_Name: A0 - Introduction
+  m_EditorClassIdentifier: 
+  StoryText: "Bienvenue dans le \"Jeu du chat : \xC9dition familiale\" !\n\nIl s'agit
+    d'un jeu d'aventure \xE0 choix dont vous \xEAtes le personnage principal.\n\n\xC0
+    chaque acte, un sc\xE9nario vous sera pr\xE9sent\xE9 o\xF9 vous devrez r\xE9pondre
+    de la situation par l'un des choix propos\xE9s. R\xE9fl\xE9chissez bien avant
+    de passer \xE0 la suite !\n\nPar exemple, entrez 1 (num\xE9ro associ\xE9 aux
+    caract\xE8res sp\xE9ciaux) pour s\xE9lectionner le choix 1. Vous pouvez quitter
+    le jeu \xE0 tout moment en appuyant sur \"Q\". Rien ne sera sauvegard\xE9. \n\n1.
+    C'est parti !"
+  NextStates:
+  - {fileID: 11400000, guid: cd5c79ded66ada043906e73cc8a2e1b0, type: 2}
