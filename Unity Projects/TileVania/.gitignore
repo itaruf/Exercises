@@ -60,6 +60,10 @@ sysinfo.txt
 *.aab
 *.unitypackage
 
+# Assets
+
+Assets/TextMesh Pro/Shaders
+
 # Crashlytics generated file
 crashlytics-build.properties
 
