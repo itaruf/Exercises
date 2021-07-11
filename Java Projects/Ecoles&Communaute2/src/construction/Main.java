@@ -87,10 +87,10 @@ public class Main {
 	 */
 	public static void main(String[] args) throws FileNotFoundException, IOException {
 		
-		File file = new File(args[0]); // On stock le chemin vers le fichier pris en entree sur la ligne de commande
+		//File file = new File(args[0]); // On stock le chemin vers le fichier pris en entree sur la ligne de commande
 		System.out.println("Projet : Construction d'ecoles partie 2");
 		System.out.println("Auteurs : ARBOUCHE Soumaya 51807322, TARUF Imane 51807791 et ARBOUCHE Anas 51607802.\n");
-		//File file = new File("C:\\Users\\admin\\eclipse-workspace\\ProjetPartie2\\src\\communaute");
+		File file = new File("src/communaute");
 		LectureAPartirFichier LAPF = new LectureAPartirFichier(file);		
 		nombreDeVilles = LAPF.recupererNombreDeVilles();
 		nombreDeRoutes = LAPF.recupererNombreDeRoutes();	

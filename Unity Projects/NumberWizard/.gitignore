@@ -62,9 +62,14 @@ sysinfo.txt
 
 # Assets
 
+Assets/TextMesh Pro/Documentation
 Assets/TextMesh Pro/Shaders
+Assets/TextMesh Pro/Shaders.*
 Assets/TextMesh Pro/Resources
+Assets/TextMesh Pro/Resources.*
 Assets/TextMesh Pro/Sprites
+Assets/TextMesh Pro/Sprites.*
+Assets/TextMesh Pro/Documentation.*
 
 # Crashlytics generated file
 crashlytics-build.properties
