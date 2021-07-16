@@ -13,7 +13,6 @@ using std::ostream;
 using std::string;
 using std::vector;
 
-// Displays Account objects in a  vector of Account objects
 void Display(const vector<Account *> &Accounts)
 {
     cout << "\n=== Accounts===========================================" << endl;
@@ -21,7 +20,6 @@ void Display(const vector<Account *> &Accounts)
         cout << *Acc << endl;
 }
 
-// Deposits supplied Amount to each Account object in the vector
 void Deposit(vector<Account *> &Accounts, double Amount)
 {
     cout << "\n=== Depositing to Accounts =================================" << endl;
@@ -34,7 +32,6 @@ void Deposit(vector<Account *> &Accounts, double Amount)
     }
 }
 
-// Withdraw Amount from each Account object in the vector
 void Withdraw(vector<Account *> &Accounts, double Amount)
 {
     cout << "\n=== Withdrawing from Accounts ==============================" << endl;
