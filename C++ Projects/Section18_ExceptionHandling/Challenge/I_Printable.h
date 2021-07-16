@@ -1,14 +1,28 @@
-#ifndef _I_PRINTABLE_H_
-#define _I_PRINTABLE_H_
+#ifndef I_PRINTABLE_H
+#define I_PRINTABLE_H
+
+#pragma once
+
 #include <iostream>
+#include <vector>
+#include <string>
+
+using std::cin;
+using std::cout;
+using std::endl;
+using std::getline;
+using std::istream;
+using std::ostream;
+using std::string;
+using std::vector;
 
 class I_Printable
 {
-    friend std::ostream &operator<<(std::ostream &os, const I_Printable &obj);
-public:
-    virtual void print(std::ostream &os) const = 0;
-    virtual ~I_Printable() = default;
+	friend ostream &operator<<(ostream &Os, const I_Printable &Obj);
 
+public:
+	virtual void Print(ostream &Os) const = 0;
+	virtual ~I_Printable() = default;
 };
 
-#endif // _I_PRINTABLE_H_
+#endif // I_PRINTABLE_H

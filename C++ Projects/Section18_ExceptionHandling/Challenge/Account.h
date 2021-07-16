@@ -1,26 +1,42 @@
 // Simple Account
 #ifndef _ACCOUNT_H_
 #define _ACCOUNT_H_
-#include <iostream>
-#include <string>
+
+#pragma once
+
 #include "I_Printable.cpp"
 #include "IllegalBalanceException.h"
+#include "InsufficentFundsException.h"
+#include <iostream>
+#include <vector>
+#include <string>
 
-class Account : public I_Printable
+using std::cin;
+using std::cout;
+using std::endl;
+using std::exception;
+using std::getline;
+using std::istream;
+using std::ostream;
+using std::string;
+using std::vector;
+
+class Account : public I_Printable, exception
 {
 private:
-    static constexpr const char *def_name = "Unnamed Account";
-    static constexpr double def_balance = 0.0;
+    static constexpr const char *DefName = "Unnamed Account";
+    static constexpr double DefBalance = 0.0;
 
 protected:
-    std::string name;
-    double balance;
+    string Name;
+    double Balance;
 
 public:
-    Account(std::string name = def_name, double balance = def_balance);
-    virtual bool deposit(double amount) = 0;
-    virtual bool withdraw(double amount) = 0;
-    virtual void print(std::ostream &os) const override;
+    Account(string Name = DefName, double Balance = DefBalance);
+    virtual bool Deposit(double Amount) = 0;
+    virtual bool Withdraw(double Amount) = 0;
     virtual ~Account() = default;
+    virtual void Print(ostream &Os) const override;
 };
+
 #endif

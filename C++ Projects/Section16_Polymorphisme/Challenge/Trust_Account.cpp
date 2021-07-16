@@ -17,7 +17,6 @@ Trust_Account::Trust_Account(string Name, double Balance, double IntRate) : Savi
 {
 }
 
-// Deposit additional $50 bonus when Amount >= $5000
 bool Trust_Account::Deposit(double Amount)
 {
     if (Amount >= BonusThreshold)
@@ -25,7 +24,6 @@ bool Trust_Account::Deposit(double Amount)
     return (Savings_Account::Deposit(Amount));
 }
 
-// Only allowed 3 withdrawals, each can be up to a maximum of 20% of the Acc's value
 bool Trust_Account::Withdraw(double Amount)
 {
     if (NumWithdrawals >= MaxWithdrawals || (Amount > Balance * MaxWithdrawalsPercent))

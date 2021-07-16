@@ -1,25 +1,45 @@
 #include "Savings_Account.h"
 
-Savings_Account::Savings_Account(std::string name, double balance, double int_rate)
-    : Account {name, balance}, int_rate{int_rate} {
+#include <iostream>
+#include <vector>
+#include <string>
+
+using std::cin;
+using std::cout;
+using std::endl;
+using std::fixed;
+using std::getline;
+using std::istream;
+using std::ostream;
+using std::string;
+using std::vector;
+
+Savings_Account::Savings_Account(string Name, double Balance, double IntRate) : Account{Name, Balance}, IntRate(IntRate)
+{
 }
 
-// Deposit:
-//      Amount supplied to deposit will be incremented by (amount * int_rate/100) 
-//      and then the updated amount will be deposited
-//
-bool Savings_Account::deposit(double amount) {
-    amount += amount * (int_rate/100);
-    return Account::deposit(amount);
+bool Savings_Account::Deposit(double Amount)
+{
+    cout << "Savings Deposit" << endl;
+    Amount += Amount * (IntRate / 100);
+    return (Account::Deposit(Amount));
 }
 
-bool Savings_Account::withdraw(double amount) {
-    return Account::withdraw(amount);
+bool Savings_Account::Withdraw(double Amount)
+{
+    cout << "Savings Withdraw" << endl;
+    if (Balance <= 0)
+    {
+        cout << "Can't withdraw" << endl;
+        return (false);
+    }
+    Balance -= Amount;
+    return (true);
 }
 
-
-void Savings_Account::print(std::ostream &os) const {
-    os.precision(2);
-    os << std::fixed;
-    os << "[Savings_Account: " << name << ": " << balance << ", " << int_rate << "]";
+void Savings_Account::Print(ostream &Os) const
+{
+    Os.precision(2);
+    Os << fixed;
+    Os << "[Savings_Account: " << Name << ": " << Balance << ", " << IntRate << "]";
 }

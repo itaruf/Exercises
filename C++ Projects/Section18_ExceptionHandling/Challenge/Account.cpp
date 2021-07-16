@@ -1,30 +1,52 @@
 #include "Account.h"
 
-Account::Account(std::string name, double balance) 
-    : name{name}, balance{balance} {
-        if (balance < 0.0)
-            throw IllegalBalanceException();
-}
+#include <iostream>
+#include <vector>
+#include <string>
 
-bool Account::deposit(double amount) {
-    if (amount < 0) 
-        return false;
-    else {
-        balance += amount;
-        return true;
+using std::cin;
+using std::cout;
+using std::endl;
+using std::fixed;
+using std::getline;
+using std::istream;
+using std::ostream;
+using std::string;
+using std::vector;
+
+Account::Account(string Name, double Balance) : Name{Name}, Balance{Balance}
+{
+    if (Balance < 0)
+    {
+        throw IllegalBalanceException{};
     }
 }
 
-bool Account::withdraw(double amount) {
-    if (balance-amount >=0) {
-        balance-=amount;
-        return true;
-    } else
-        return false;
+bool Account::Deposit(double Amount)
+{
+    if (Amount < 0)
+        return (false);
+    else
+    {
+        Balance += Amount;
+        return (true);
+    }
 }
 
- void Account::print(std::ostream &os) const {
-    os.precision(2);
-    os << std::fixed;
-    os << "[Account: " << name << ": " << balance << "]";
+bool Account::Withdraw(double Amount)
+{
+    if (Balance - Amount >= 0)
+    {
+        Balance -= Amount;
+        return (true);
+    }
+    else
+        throw InsufficentFundsException{};
+}
+
+void Account::Print(ostream &Os) const
+{
+    Os.precision(2);
+    Os << fixed;
+    Os << "[Account: " << Name << ": " << Balance << "]";
 }

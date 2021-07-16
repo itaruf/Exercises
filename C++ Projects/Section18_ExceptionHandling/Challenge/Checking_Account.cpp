@@ -1,26 +1,37 @@
 #include "Checking_Account.h"
 
-Checking_Account::Checking_Account(std::string name, double balance)
-    try : Account {name, balance} {
-        
-    }
-    catch (...) {
-        ;
-    }
+#include <iostream>
+#include <vector>
+#include <string>
 
+using std::cin;
+using std::cout;
+using std::endl;
+using std::fixed;
+using std::getline;
+using std::istream;
+using std::ostream;
+using std::string;
+using std::vector;
 
-bool Checking_Account::withdraw(double amount) {
-    amount += per_check_fee;
-    return Account::withdraw(amount);
+Checking_Account::Checking_Account(string Name, double Balance) : Account{Name, Balance}
+{
 }
 
-bool Checking_Account::deposit(double amount) {
-    return Account::deposit(amount);
+bool Checking_Account::Withdraw(double Amount)
+{
+    Amount += PerCheckFee;
+    return (Account::Withdraw(Amount));
 }
 
-void Checking_Account::print(std::ostream &os) const {
-    os.precision(2);
-    os << std::fixed;
-    os << "[Checking_Account: " << name << ": " << balance  << "]";
+bool Checking_Account::Deposit(double Amount)
+{
+    return (Account::Deposit(Amount));
 }
 
+void Checking_Account::Print(ostream &Os) const
+{
+    Os.precision(2);
+    Os << fixed;
+    Os << "[Checking Account: " << Name << ": " << Balance << "]";
+}
