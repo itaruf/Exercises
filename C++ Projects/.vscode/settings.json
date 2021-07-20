@@ -53,6 +53,13 @@
         "map": "cpp",
         "set": "cpp",
         "xtree": "cpp",
-        "deque": "cpp"
+        "deque": "cpp",
+        "array": "cpp",
+        "functional": "cpp",
+        "queue": "cpp",
+        "sstream": "cpp",
+        "stack": "cpp",
+        "unordered_map": "cpp",
+        "xhash": "cpp"
     }
 }
