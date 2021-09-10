@@ -60,12 +60,6 @@ sysinfo.txt
 *.aab
 *.unitypackage
 
-# Assets
-
-Assets/TextMesh Pro/Shaders
-Assets/TextMesh Pro/Resources
-Assets/TextMesh Pro/Sprites
-
 # Crashlytics generated file
 crashlytics-build.properties
 
