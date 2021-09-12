@@ -22,10 +22,10 @@ Move::Move(const int DataSet)
     cout << "Constructor for: " << DataSet << endl;
 }
 
-Move::Move(const Move &Source) : Move{*Source.Data}
+/* Move::Move(const Move &Source) : Move{*Source.Data}
 {
     cout << "Copy Constructor Called for: " << *Source.Data << endl;
-}
+} */
 
 Move::Move(Move &&Source) noexcept : Data{Source.Data}
 {
@@ -48,7 +48,8 @@ Move::~Move()
 
 int main()
 {
-    vector<Move> vec{Move{10}};
+    vector<Move> vec{};
+    Move m1{50};
     cout << endl;
     vec.push_back(Move{20});
     cout << endl;
