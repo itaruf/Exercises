@@ -41,9 +41,10 @@ Mystring::Mystring(const Mystring &source) : Str{nullptr} // Copy Constructor
     cout << "Copy Constructor Called For: " << Str << endl;
 }
 
-Mystring::Mystring(Mystring &&source) : Str{source.Str} // Move Constructor
+Mystring::Mystring(Mystring &&source) : Str{source.Str} // Move Constructor // steal the pointer
 {
     cout << "Move Constructor Called For: " << source.Str << endl;
+    if (source.Str)
     source.Str = nullptr;
 }
 
