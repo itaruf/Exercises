@@ -8,6 +8,9 @@ namespace Simple_Inheritance
         {
             TV MyTV = new TV(true, "Samsung");
             MyTV.ListenDevice();
+
+            Radio myRadio = new Radio(false, "AAA");
+            myRadio.ListenDevice();
         }
     }
 }
