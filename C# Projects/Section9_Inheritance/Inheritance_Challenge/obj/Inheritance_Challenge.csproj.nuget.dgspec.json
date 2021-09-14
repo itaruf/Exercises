@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Programmation\\CS\\Section9 _Inheritance\\Inheritance_Challenge\\Inheritance_Challenge.csproj": {}
+    "E:\\GitHub\\portfolio-itaruf\\C# Projects\\Section9_Inheritance\\Inheritance_Challenge\\Inheritance_Challenge.csproj": {}
   },
   "projects": {
-    "E:\\Programmation\\CS\\Section9 _Inheritance\\Inheritance_Challenge\\Inheritance_Challenge.csproj": {
+    "E:\\GitHub\\portfolio-itaruf\\C# Projects\\Section9_Inheritance\\Inheritance_Challenge\\Inheritance_Challenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Programmation\\CS\\Section9 _Inheritance\\Inheritance_Challenge\\Inheritance_Challenge.csproj",
+        "projectUniqueName": "E:\\GitHub\\portfolio-itaruf\\C# Projects\\Section9_Inheritance\\Inheritance_Challenge\\Inheritance_Challenge.csproj",
         "projectName": "Inheritance_Challenge",
-        "projectPath": "E:\\Programmation\\CS\\Section9 _Inheritance\\Inheritance_Challenge\\Inheritance_Challenge.csproj",
+        "projectPath": "E:\\GitHub\\portfolio-itaruf\\C# Projects\\Section9_Inheritance\\Inheritance_Challenge\\Inheritance_Challenge.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "E:\\Programmation\\CS\\Section9 _Inheritance\\Inheritance_Challenge\\obj\\",
+        "outputPath": "E:\\GitHub\\portfolio-itaruf\\C# Projects\\Section9_Inheritance\\Inheritance_Challenge\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }

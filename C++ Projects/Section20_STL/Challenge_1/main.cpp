@@ -11,7 +11,7 @@ using namespace std;
 void CleanString(string &Sentence)
 {
     vector<char> CharactersToIgnore{'!', ',', ';', ':', '?', '-', '\'', '\"', ' '};
-    for (char Item : CharactersToIgnore)
+    for (const char &Item : CharactersToIgnore)
     {
         Sentence.erase(remove(Sentence.begin(), Sentence.end(), Item), Sentence.end());
     }
@@ -25,8 +25,10 @@ bool IsPalindrome(string Sentence)
     for (const char &Item : Sentence)
     {
         D.emplace_front(Item);
+        cout << Item << endl;
     }
 
+    // D contient la chaîne de caractères initiale à l'envers
     for (int i = 0; i < Sentence.length(); i++)
     {
         if (toupper(Sentence[i]) != toupper(D.at(i)))

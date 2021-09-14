@@ -77,9 +77,9 @@ void CountTest()
 
 void CountIfTest()
 {
-    vector<int> V{1, 2, 2, 4, 5}; 
-    auto Num = count_if(V.begin(), V.end(), [](int X)
-                        { return (X % 2 == 0); });
+    vector<int> V{1, 2, 2, 4, 5};
+    auto Num = count_if(V.begin(), V.end(), [](int item)
+                        { return (item % 2 == 0); });
 
     cout << Num << " even number(s) found" << endl;
     cout << endl;

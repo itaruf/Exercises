@@ -7,21 +7,21 @@
 // Classe symbolisant un joueur dans une application
 class Player
 {
-	public:
-		// Un accesseur permettant de récupérer une référence vers le nom du joueur
-		const std::string& GetName() const
-		{ 
-			return m_name;
-		}
+public:
+	// Un accesseur permettant de récupérer une référence vers le nom du joueur
+	const std::string &GetName() const
+	{
+		return m_name;
+	}
 
-		// Fonction permettant de changer le nom
-		void UpdateName(std::string name)
-		{
-			m_name = std::move(name);
-		}
+	// Fonction permettant de changer le nom
+	void UpdateName(std::string name)
+	{
+		m_name = std::move(name);
+	}
 
-	private:
-		std::string m_name;
+private:
+	std::string m_name;
 };
 
 void test1()
@@ -31,7 +31,7 @@ void test1()
 
 	Player player;
 	player.UpdateName(nick); //< Copie de nick vers name et mouvement de celui-ci vers m_name
-	
+
 	// La valeur de nick n'est pas altéré
 }
 
