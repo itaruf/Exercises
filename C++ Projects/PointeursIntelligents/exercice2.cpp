@@ -1,4 +1,4 @@
-// Exercice : Modifiez la classe WeaponPtr pour la passer d'un pointeur intelligent seul propriétaire à
+// Exercice : Modifiez la classe WeaponPtr pour la passer d'un pointeur intelligent seul propriétaire à 
 // un pointeur intelligent à propriétaires multiples (autorisant la copie).
 // Utilisez un entier pour compter le nombre de propriétaires, incrémentez-le à la copie, décrémentez-le à la destruction.
 // Quand ce compteur arrive à zéro, la ressource doit être libérée.
@@ -14,27 +14,20 @@
 */
 
 #include <cstdlib> // std::rand
-#include <ctime>   // std::time
+#include <ctime> // std::time
 #include <iostream>
 #include <string>
 
 class Weapon
 {
-
-private:
-	std::string m_name;
-
 public:
 	// Constructeur par défaut de Weapon
-	Weapon(std::string name) : m_name(std::move(name))
+	Weapon(std::string name) :
+	m_name(std::move(name))
 	{
-		std::cout << "Weapon Constructor For String Arg Called." << std::endl;
 	}
 
-	Weapon(Weapon &&weapon) : m_name(std::move(weapon.m_name))
-	{
-		std::cout << "Weapon Constructor Called." << std::endl;
-	}
+	Weapon(Weapon&& weapon) = default;
 
 	// Méthode récupérant les dégâts
 	unsigned int GetDamage() const
@@ -46,38 +39,28 @@ public:
 	}
 
 	// Méthode pour récupérer le nom de l'arme
-	const std::string &
-	GetName() const
+	const std::string& GetName() const
 	{
 		return m_name;
 	}
-	~Weapon()
-	{
-		std::cout << "Weapon Destructor Constructor Called." << std::endl;
-	}
+
+private:
+	std::string m_name;
 };
+
 
 class WeaponPtr
 {
-
-private:
-	Weapon *m_weapon;
-	int *m_counter;
-
 public:
-	WeaponPtr(Weapon *weapon) : m_weapon(weapon)
+	WeaponPtr(Weapon* weapon) :
+	m_weapon(weapon)
 	{
-		std::cout << "WeaponPtr Constructor Called." << std::endl;
 	}
 
-	// Copy Constructor is helpful when you need the argument object to stay around
-	WeaponPtr(const WeaponPtr &weapon) : m_weapon(weapon.m_weapon) {
-		m_counter = new int(1);
-	}
+	WeaponPtr(const WeaponPtr& weapon) = delete;
 
-	WeaponPtr(WeaponPtr &&weapon)
+	WeaponPtr(WeaponPtr&& weapon)
 	{
-		std::cout << "WeaponPtr Movement Constructor Called." << std::endl;
 		m_weapon = weapon.m_weapon;
 		weapon.m_weapon = nullptr;
 	}
@@ -85,39 +68,36 @@ public:
 	~WeaponPtr()
 	{
 		if (m_weapon)
-		{
-			std::cout << "WeaponPtr Destructor Constructor Called." << std::endl;
 			delete m_weapon;
-		}
 	}
 
-	Weapon *GetPointer() const
+	Weapon* GetPointer() const
 	{
 		return m_weapon;
 	}
 
-	std::string GetName() const
-	{
-		return m_weapon->GetName();
-	}
+private:
+	Weapon* m_weapon;
 };
+
 
 class Player
 {
 public:
 	// Constructeur de Player
-	Player(std::string name, WeaponPtr weapon) : m_weapon(std::move(weapon)),
-												 m_name(std::move(name)),
-												 m_health(100)
+	Player(std::string name, WeaponPtr weapon) :
+		m_weapon(std::move(weapon)),
+		m_name(std::move(name)),
+		m_health(100)
 	{
 	}
 
 	// Constructeur par copie de Player (celui invoqué à la copie d'un Player)
 	// comme ça n'a pas de sens de copier un Player, on le "delete" (= empêche son appel)
-	Player(const Player &) = delete;
+	Player(const Player&) = delete;
 
 	// Constructeur par mouvement de Player
-	Player(Player &&) = default;
+	Player(Player&&) = default;
 
 	// Destructeur de Player, on n'oublie pas de libérer ce qu'on a alloué dynamiquement !
 	~Player()
@@ -131,13 +111,13 @@ public:
 	}
 
 	// Méthode retournant l'arme du joueur
-	const Weapon &GetWeapon() const
+	const Weapon& GetWeapon() const
 	{
 		return *m_weapon.GetPointer();
 	}
 
 	// Méthode retournant le nom du joueur
-	const std::string &GetName() const
+	const std::string& GetName() const
 	{
 		return m_name;
 	}
@@ -150,9 +130,9 @@ public:
 			m_health -= damage;
 	}
 
-	void UpdateName(const std::string &name)
+	void UpdateName(const std::string& name)
 	{
-		m_name = std::move(name);
+		m_name = name;
 	}
 
 private:
@@ -176,22 +156,16 @@ int main()
 	/* std::cout << "Entrez le nom de votre second joueur:" << std::endl;
 	std::cin >> playerName2; */
 
-	WeaponPtr marteauDeThor(new Weapon("Marteau de Thor")); //< une référence
+	Weapon* marteauDeThor = new Weapon("Marteau de Thor");
 
-	/* Player player1(std::move(playerName1), marteauDeThor);
-	Player player2(std::move(playerName2), WeaponPtr(new Weapon("Sceptre de Loki"))); */
-
-	Player player1(std::move(playerName1), marteauDeThor); //< deux référence
-
-	Player player2(std::move(playerName2), marteauDeThor); //< trois références
-
-	//marteauDeThor.reset();
+	Player player1(std::move(playerName1), marteauDeThor);
+	Player player2(std::move(playerName2), WeaponPtr(new Weapon("Sceptre de Loki")));
 
 	while (player1.GetHealth() > 0 && player2.GetHealth() > 0)
 	{
 		// Tour du joueur 1
 		{
-			const Weapon &weapon = player1.GetWeapon();
+			const Weapon& weapon = player1.GetWeapon();
 			player2.TakeDamage(weapon.GetDamage());
 
 			std::cout << player1.GetName() << " attaque " << player2.GetName() << " avec " << weapon.GetName() << ": " << player2.GetHealth() << std::endl;
@@ -199,7 +173,7 @@ int main()
 
 		// Tour du joueur 2
 		{
-			const Weapon &weapon = player2.GetWeapon();
+			const Weapon& weapon = player2.GetWeapon();
 			player1.TakeDamage(weapon.GetDamage());
 
 			std::cout << player2.GetName() << " attaque " << player1.GetName() << " avec " << weapon.GetName() << ": " << player1.GetHealth() << std::endl;
