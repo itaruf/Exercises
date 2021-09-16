@@ -18,8 +18,6 @@
 #include <iostream>
 #include <string>
 
-static int number_of_ownership{0};
-
 class Weapon
 {
 
@@ -30,7 +28,7 @@ public:
 	// Constructeur par défaut de Weapon
 	Weapon(std::string name) : m_name(std::move(name))
 	{
-		std::cout << " Weapon (name) Constructor Called." << std::endl;
+		std::cout << "Weapon Constructor For String Arg Called." << std::endl;
 	}
 
 	Weapon(Weapon &&weapon) : m_name(std::move(weapon.m_name))
@@ -64,12 +62,17 @@ class WeaponPtr
 
 private:
 	Weapon *m_weapon;
+	int *m_counter;
 
 public:
 	WeaponPtr(Weapon *weapon) : m_weapon(weapon)
 	{
 		std::cout << "WeaponPtr Constructor Called." << std::endl;
-		number_of_ownership++;
+	}
+
+	// Copy Constructor is helpful when you need the argument object to stay around
+	WeaponPtr(const WeaponPtr &weapon) : m_weapon(weapon.m_weapon) {
+		m_counter = new int(1);
 	}
 
 	WeaponPtr(WeaponPtr &&weapon)
@@ -84,8 +87,6 @@ public:
 		if (m_weapon)
 		{
 			std::cout << "WeaponPtr Destructor Constructor Called." << std::endl;
-			number_of_ownership--;
-			std::cout << number_of_ownership << std::endl;
 			delete m_weapon;
 		}
 	}
@@ -151,7 +152,7 @@ public:
 
 	void UpdateName(const std::string &name)
 	{
-		m_name = name;
+		m_name = std::move(name);
 	}
 
 private:
@@ -175,17 +176,14 @@ int main()
 	/* std::cout << "Entrez le nom de votre second joueur:" << std::endl;
 	std::cin >> playerName2; */
 
-	Weapon marteauDeThor(new Weapon("Marteau de Thor")); //< une référence
-	std::cout << number_of_ownership << std::endl;
+	WeaponPtr marteauDeThor(new Weapon("Marteau de Thor")); //< une référence
 
 	/* Player player1(std::move(playerName1), marteauDeThor);
 	Player player2(std::move(playerName2), WeaponPtr(new Weapon("Sceptre de Loki"))); */
 
 	Player player1(std::move(playerName1), marteauDeThor); //< deux référence
-	std::cout << number_of_ownership << std::endl;
 
 	Player player2(std::move(playerName2), marteauDeThor); //< trois références
-	std::cout << number_of_ownership << std::endl;
 
 	//marteauDeThor.reset();
 

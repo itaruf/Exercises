@@ -12,7 +12,7 @@ int main()
 {
 	// Initialisation du générateur aléatoire
 	std::srand(std::time(nullptr));
-
+	
 	// Saisie du nom du premier joueur
 	std::string playerName1;
 	std::cout << "Entrez le nom de votre premier joueur:" << std::endl;

@@ -1,11 +1,6 @@
 #ifndef __PLAYER_H__
 #define __PLAYER_H__
 
-#include <cstdlib> // std::rand
-#include <ctime>   // std::time
-#include <iostream>
-#include <string>
-
 #include "WeaponPtr.h"
 #include "Weapon.h"
 
