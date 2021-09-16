@@ -35,7 +35,7 @@ public:
 	}
 
 	// Méthode pour récupérer le nom de l'arme
-	const std::string& GetName() const
+	const std::string &GetName() const
 	// on change 'std::string GetName() const' en 'const std::string &GetName() const' pour renvoyer une référence constante
 	{
 		return m_name;
@@ -45,21 +45,6 @@ public:
 		std::cout << "Weapon Destructor Used" << std::endl;
 	}
 };
-
-// Exercice : Modifiez la classe WeaponPtr pour la passer d'un pointeur intelligent seul propriétaire à
-// un pointeur intelligent à propriétaires multiples (autorisant la copie).
-// Utilisez un entier pour compter le nombre de propriétaires, incrémentez-le à la copie, décrémentez-le à la destruction.
-// Quand ce compteur arrive à zéro, la ressource doit être libérée.
-// Implémentez le mouvement pour cette classe également (ne change pas le nombre de propriétaires)
-// L'objectif est qu'à terme, on puisse mettre la même arme sur les deux personnages :
-/*
-	WeaponPtr marteauDeThor(new Weapon("Marteau de Thor")); //< une référence
-
-	Player player1(std::move(playerName1), marteauDeThor); //< deux référence
-	Player player2(std::move(playerName2), marteauDeThor); //< trois références
-
-	marteauDeThor.reset(); //< abandon de la propriété: retour à deux références
-*/
 
 class Player
 {
@@ -147,8 +132,8 @@ int main()
 
 	Weapon marteauDeThor("Marteau de Thor");
 	Weapon sceptreDeLoki("Sceptre de Loki");
-	
-	Player player1(std::move(playerName1), std::move(marteauDeThor)); 
+
+	Player player1(std::move(playerName1), std::move(marteauDeThor));
 	Player player2(std::move(playerName2), std::move(sceptreDeLoki));
 
 	Player player3(playerName3, std::move(marteauDeThor));
