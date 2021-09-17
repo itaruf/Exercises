@@ -10,13 +10,18 @@
 class Weapon
 {
 public:
+	/*BIG FIVE*/
 	// Constructeur par défaut de Weapon
-	Weapon(std::string name) : m_name(std::move(name))
-	{
-	}
-
-	Weapon(Weapon &&weapon) = default;
-
+	Weapon(std::string name) : m_name(std::move(name)) {}
+	// Constructeur par copie
+	Weapon(const Weapon& weapon) = delete;
+	// Constructeur par mouvement
+	Weapon(Weapon&& weapon) = default;
+	// Constructeur d'assignation par copie
+	Weapon& operator=(const Weapon& weapon) = delete;
+	// Constructeur d'assignation par mouvement
+	Weapon& operator=(Weapon&& weapon) = default;
+	
 	// Méthode récupérant les dégâts
 	unsigned int GetDamage() const
 	{
