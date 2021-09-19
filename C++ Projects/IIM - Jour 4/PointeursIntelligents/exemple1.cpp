@@ -11,9 +11,10 @@ private:
 	int num;
 
 public:
-	Objet() : num{def_num} {}
-	Objet(const int &num) : num{num} {}
-	Objet(std::unique_ptr<Objet> obj) : num{obj->get_num()} {}
+	Objet() = default;
+	Objet(const int &num) : num{num} {
+	}
+	//Objet(std::unique_ptr<Objet> obj) : num{obj->get_num()} {}
 	int get_num()
 	{
 		return (num);
@@ -95,7 +96,7 @@ bool test_avec_pointeur_intelligent()
 		return false;
 	}
 
-	std::unique_ptr<Objet> c = std::make_unique<Objet>(a);
+	std::unique_ptr<Objet> c = std::make_unique<Objet>(10);
 
 	if (!AutreOperation(*a, *b, *c))
 	{
