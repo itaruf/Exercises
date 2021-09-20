@@ -3,9 +3,6 @@
 
 #include "Sprite.h"
 #include <unordered_map>
-#include <iostream>
-#include <string>
-#include <unordered_map>
 #include <iomanip>
 
 class Sprite_Manager {

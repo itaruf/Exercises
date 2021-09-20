@@ -7,23 +7,23 @@
 #include <SDL.h>
 #include <SDL_image.h>
 #include <SDL_ttf.h>
-#include <memory>
 
 class Font {
 private:
 	TTF_Font* my_font;
 public:
-	Font(TTF_Font* font) : my_font(font) {
+	Font(TTF_Font*&& font) : my_font(font) {
 		std::cout << "Font Constructor Called" << std::endl;
+		font = nullptr;
 	}
 	// Copy Constructor
-	Font(const Font& font) : Font(font.my_font){
+	Font(Font& font) : my_font(font.my_font) {
 		std::cout << "Font Copy Constructor Called" << std::endl;
 	}
 	// Move Constructor
-	Font(Font&& font) : Font(font.my_font) {
+	Font(Font&& font) : my_font(font.my_font) {
 		std::cout << "Font Move Constructor Called" << std::endl;
-		font = nullptr;
+		font.my_font = nullptr;
 	}
 	// Copy Assignment
 	Font& operator=(const Font& font) {
@@ -39,12 +39,12 @@ public:
 	Font& operator=(Font&& font) {
 		std::cout << "Font Move Assignement Called" << std::endl;
 		if (this == &font) {
+			std::cout << "test" << std::endl;
 			return(*this);
 		}
 		else {
-			my_font = nullptr;
 			my_font = font.my_font;
-			font = nullptr;
+			font.my_font = nullptr;
 			return(*this);
 		}
 	}

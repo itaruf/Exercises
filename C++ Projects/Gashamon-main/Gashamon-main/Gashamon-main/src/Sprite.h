@@ -1,7 +1,6 @@
 #ifndef __SPRITE_H__
 #define __SPRITE_H__
 
-#include <stdlib.h>
 #include <cstdlib>
 #include <iostream>
 #include <string>
