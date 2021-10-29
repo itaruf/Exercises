@@ -5,6 +5,9 @@
 [Bb]uilds/
 [Ll]ogs/
 Assets/AssetStoreTools*
+Assets/Rewired/Examples
+Assets/Rewired/Documentation
+Assets/Rewired/Internal/Assets/Extras/*.zip
 
 # Visual Studio cache directory
 .vs/
