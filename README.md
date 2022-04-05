@@ -1,2 +1,3 @@
 # porfolio-itaruf
-Find here the works I've done so far
+
+Projects & exercises done in order to train myself.
