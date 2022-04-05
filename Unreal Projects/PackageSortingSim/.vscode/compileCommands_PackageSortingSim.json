@@ -1,0 +1,27 @@
+[
+	{
+		"file": "E:\\\\GitHub\\\\portfolio-itaruf\\\\Unreal Projects\\\\PackageSortingSim\\\\Source\\\\PackageSortingSim\\\\PackageSortingSim.Build.cs",
+		"command": "cl.exe @\"E:\\GitHub\\portfolio-itaruf\\Unreal Projects\\PackageSortingSim\\.vscode\\compileCommands_PackageSortingSim\\PackageSortingSim.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "E:\\\\GitHub\\\\portfolio-itaruf\\\\Unreal Projects\\\\PackageSortingSim\\\\Source\\\\PackageSortingSim\\\\PackageSortingSim.cpp",
+		"command": "cl.exe @\"E:\\GitHub\\portfolio-itaruf\\Unreal Projects\\PackageSortingSim\\.vscode\\compileCommands_PackageSortingSim\\PackageSortingSim.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "E:\\\\GitHub\\\\portfolio-itaruf\\\\Unreal Projects\\\\PackageSortingSim\\\\Source\\\\PackageSortingSim\\\\PackageSortingSim.h",
+		"command": "cl.exe @\"E:\\GitHub\\portfolio-itaruf\\Unreal Projects\\PackageSortingSim\\.vscode\\compileCommands_PackageSortingSim\\PackageSortingSim.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "E:\\\\GitHub\\\\portfolio-itaruf\\\\Unreal Projects\\\\PackageSortingSim\\\\Source\\\\PackageSortingSim\\\\PackageSortingSimGameModeBase.cpp",
+		"command": "cl.exe @\"E:\\GitHub\\portfolio-itaruf\\Unreal Projects\\PackageSortingSim\\.vscode\\compileCommands_PackageSortingSim\\PackageSortingSim.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "E:\\\\GitHub\\\\portfolio-itaruf\\\\Unreal Projects\\\\PackageSortingSim\\\\Source\\\\PackageSortingSim\\\\PackageSortingSimGameModeBase.h",
+		"command": "cl.exe @\"E:\\GitHub\\portfolio-itaruf\\Unreal Projects\\PackageSortingSim\\.vscode\\compileCommands_PackageSortingSim\\PackageSortingSim.182.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	}
+]
