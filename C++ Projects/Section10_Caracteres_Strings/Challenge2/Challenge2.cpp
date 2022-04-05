@@ -12,6 +12,7 @@ using std::string;
 string AskInput(string UserInput);
 void Pyramid(string UserInput);
 string ReverseString(string Str);
+
 string AskInput(string UserInput)
 {
     cout << "Enter your message: ";
