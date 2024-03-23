@@ -7,9 +7,6 @@ Main works done throughout my studies using Programming languages, frameworks an
 - C 
 - C++
 - C#
-- HTML
 - Java
 - R
 - React
-- Unity
-- Unreal Engine
